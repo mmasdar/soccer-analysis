@@ -1,0 +1,804 @@
+Name,Age,Club,Nationality,Position,Appearances,Assist,Distance / 90 minutes,Goals,Conceded,Interception,Key Passes,Pass Attempt / 90 minutes,Pass Completed / 90 minutes,Shots on Target,Shots,Tackle Attempt,Tackle Won,Shutouts,Performance,Club_Category
+Jesse Lingard,27,Man Utd,ENG,Midfielder,19,10,8.2,7,0,36,73,47.31,36.5,31,53,50,36,0,Good,English
+Baptiste Guillaume,24,Watford,BEL,Striker,21,0,7.4,1,0,13,24,38.77,27.71,16,44,16,4,0,Bad,English
+Raúl Ruiz,29,Lleida Esportiu,ESP,Midfielder,28,5,1.3,3,0,8,2,21.53,13.01,8,29,28,20,0,Bad,Other
+Sime Vrsaljko,28,Atlético,CRO,Defender,28,2,5.8,0,0,123,25,30.22,22.69,0,6,127,101,0,Good,Spanish
+Lautaro Giannetti,26,R. Betis,ARG,Defender,39,1,4.6,1,0,160,6,21.77,17.1,6,22,171,137,0,Good,Spanish
+João Gomes,22,Sevilla,POR,Goalkeeper,25,0,1.4,0,38,0,0,13.38,5.35,0,0,0,0,4,Bad,Spanish
+Todd Kane,26,Sunderland,ENG,Defender,26,0,7.5,1,0,154,34,40.65,27.47,1,1,133,93,0,Normal,English
+Antonio Puertas,28,Albacete,ESP,Midfielder,23,0,4.8,4,0,30,1,30.51,19.1,17,38,30,15,0,Bad,Spanish
+Zied Jebali,20,Celta,TUN,Defender,8,0,4.6,0,0,33,0,18.79,14.16,3,9,43,38,0,Good,Spanish
+Jeff Hendrick,28,Brighton,IRL,Midfielder,5,1,8.4,0,0,38,9,56.22,38.85,2,6,17,13,0,Normal,English
+Gorka Intxaurraga,20,Athletic,ESP,Defender,14,1,4.8,0,0,18,1,28.77,21.87,0,3,47,38,0,Bad,Spanish
+Julio García,20,Sevilla,ESP,Midfielder,16,1,5.2,3,0,35,4,37.24,30.93,7,20,26,16,0,Normal,Spanish
+Nacho Monreal,34,Stoke,ESP,Defender,19,2,7.3,0,0,132,32,40.99,30.95,2,2,113,93,0,Good,English
+Maxwel Cornet,23,Getafe,CIV,Midfielder,22,1,4.4,3,0,14,4,25.39,13.71,15,34,22,7,0,Bad,Spanish
+José Morales,32,Levante,ESP,Midfielder,17,1,5.0,2,0,12,1,27.28,15.92,8,21,25,15,0,Bad,Spanish
+Aaron Cresswell,30,Newcastle,ENG,Defender,19,0,7.6,0,0,104,31,47.76,35.07,0,2,109,86,0,Good,English
+Bashkim Kadrii,28,Brentford,ALB,Midfielder,27,4,7.6,6,0,46,45,35.63,25.65,15,30,63,35,0,Normal,English
+Álvaro Rivero,22,Albacete,ESP,Midfielder,15,0,4.4,1,0,13,0,32.19,19.97,5,9,28,13,0,Bad,Spanish
+Cédric,28,Southampton,POR,Defender,28,0,7.6,2,0,157,101,51.86,40.34,2,9,145,107,0,Good,English
+Cédric Bakambu,28,Villarreal,COD,Midfielder,24,0,4.3,11,0,17,0,21.05,10.44,38,74,7,2,0,Bad,Spanish
+Adrián Marín,23,West Ham,ESP,Defender,12,0,7.4,0,0,97,15,45.41,33.42,0,0,114,83,0,Good,English
+Marcel Schmelzer,32,Sevilla,GER,Defender,27,4,5.2,0,0,111,4,22.58,17.39,1,4,116,90,0,Good,Spanish
+Frédéric Guilbert,25,Tottenham,FRA,Defender,34,10,8.3,2,0,237,130,53.99,38.7,4,8,217,170,0,Good,English
+Ager Aketxe,26,Getafe,ESP,Midfielder,9,2,3.8,2,0,4,6,29.7,18.6,7,14,6,3,0,Normal,Spanish
+Fran Serrano,24,Numancia,ESP,Defender,27,6,1.6,1,0,11,1,20.36,14.56,4,13,80,74,0,Bad,Spanish
+Néstor,19,Lugo,ESP,Defender,25,0,3.8,0,0,72,2,16.34,10.27,1,5,111,87,0,Bad,Spanish
+Ezequiel Rescaldani,27,Sunderland,ARG,Midfielder,26,3,7.0,5,0,26,54,35.59,25.09,23,59,33,12,0,Normal,English
+Lévy Madinda,27,Celta,GAB,Midfielder,30,3,5.3,3,0,32,8,36.66,24.11,13,37,76,54,0,Normal,Spanish
+José Callejón,33,Swansea,ESP,Midfielder,5,0,8.4,0,0,10,9,35.3,26.88,2,9,14,9,0,Normal,English
+Mateo Stamatov,20,Espanyol,BUL,Defender,16,1,4.5,0,0,24,1,28.32,17.14,0,2,30,22,0,Bad,Spanish
+Marko Rog,24,Sunderland,CRO,Midfielder,34,1,8.4,5,0,101,99,40.8,29.55,20,47,168,107,0,Good,English
+Jordy Clasie,28,Southampton,NED,Midfielder,27,2,7.5,0,0,52,40,59.25,45.0,8,24,85,60,0,Normal,English
+Álvaro,30,Espanyol,ESP,Defender,27,0,4.2,3,0,80,3,20.85,16.48,4,11,118,94,0,Bad,Spanish
+Karel Hosek,19,Crystal Palace,CZE,Defender,6,0,7.2,0,0,36,1,49.61,38.14,0,3,18,12,0,Normal,English
+Celso Borges,31,Deportivo,CRC,Defender,30,6,5.0,4,0,41,15,36.04,24.45,14,37,98,58,0,Bad,Spanish
+John Boakye,22,R. Madrid,GHA,Defender,7,0,6.4,0,0,16,7,32.45,22.65,0,1,24,19,0,Bad,Spanish
+Chete,24,Albacete,ESP,Defender,6,0,4.2,0,0,4,0,20.52,14.84,1,3,20,14,0,Bad,Spanish
+Iván,26,Valencia,ESP,Defender,12,0,4.9,0,0,21,0,26.9,19.66,0,2,34,28,0,Bad,Spanish
+Ben Gibson,27,Brentford,ENG,Defender,30,0,6.2,0,0,380,6,35.61,23.79,1,8,123,102,0,Good,English
+Juan Aguilera,34,Elche,ESP,Defender,17,0,4.6,0,0,27,3,32.34,27.08,0,2,44,29,0,Bad,Spanish
+Stefano Magnasco,27,Deportivo,CHI,Defender,28,2,5.0,1,0,50,6,22.17,15.97,2,13,93,66,0,Bad,Spanish
+Yohan Boli,26,Granada,CIV,Midfielder,6,0,4.2,1,0,6,1,20.17,13.67,8,13,0,0,0,Bad,Spanish
+Alexis Ordóñez,20,Granada,ESP,Midfielder,5,0,4.8,2,0,7,1,21.61,11.54,4,7,7,4,0,Bad,Spanish
+José Carlos,23,R. Betis,ESP,Defender,13,0,4.5,0,0,46,4,21.14,16.09,0,5,52,41,0,Normal,Spanish
+Calvin Verdonk,22,Southampton,NED,Defender,22,0,6.0,0,0,183,2,38.88,29.81,2,3,96,81,0,Good,English
+Víctor Álvarez,26,Villarreal,ESP,Defender,13,3,4.6,0,0,41,3,30.2,23.64,0,0,64,50,0,Normal,Spanish
+Fran Beltrán,21,Rayo,ESP,Midfielder,11,0,4.7,0,0,4,2,35.89,28.58,0,0,23,11,0,Bad,Spanish
+André Silva,24,Chelsea,POR,Striker,9,3,7.3,2,0,7,17,27.43,19.07,9,35,14,7,0,Normal,English
+Jores Okore,27,Aston Villa,DEN,Defender,29,0,6.0,0,0,370,3,35.09,24.52,1,7,92,83,0,Good,English
+Matej Mitrovic,26,Brighton,CRO,Defender,24,0,6.2,0,0,313,2,37.09,22.24,1,4,105,87,0,Good,English
+Marc Bartra,29,FC Barcelona,ESP,Defender,29,0,4.9,0,0,135,5,32.76,26.66,2,12,105,90,0,Good,Spanish
+Geferson,25,R. Betis,BRA,Defender,31,3,4.9,1,0,91,8,27.88,18.2,2,8,129,100,0,Bad,Spanish
+Fabián,23,R. Betis,ESP,Midfielder,23,4,4.5,1,0,49,9,35.33,26.86,4,16,46,28,0,Normal,Spanish
+Cristian Manea,22,Swansea,ROU,Defender,9,0,7.3,0,0,68,9,46.27,32.69,1,1,35,29,0,Good,English
+Thomas Partey,26,Atlético,GHA,Midfielder,20,1,5.6,3,0,22,3,35.23,27.28,4,12,82,54,0,Bad,Spanish
+Renato Tapia,24,Sunderland,PER,Defender,27,0,8.2,1,0,92,23,58.1,46.55,5,14,70,50,0,Normal,English
+Raheem Sterling,25,Man City,ENG,Midfielder,22,6,8.3,5,0,35,58,47.24,32.33,22,62,83,56,0,Good,English
+Gerard Piqué,33,FC Barcelona,ESP,Defender,38,1,4.8,2,0,214,15,35.77,31.44,5,27,188,164,0,Good,Spanish
+Bruno,35,Villarreal,ESP,Defender,28,5,5.0,0,0,109,14,46.99,41.5,2,5,136,96,0,Normal,Spanish
+Lucas Pratto,31,Everton,ARG,Midfielder,19,1,7.5,4,0,47,35,42.6,27.9,21,45,43,29,0,Normal,English
+Sergi Puig,19,Espanyol,ESP,Midfielder,22,0,4.2,4,0,11,0,23.4,16.05,18,39,23,9,0,Bad,Spanish
+Etienne Capoue,31,Watford,FRA,Defender,26,0,7.4,0,0,171,30,44.98,35.82,1,12,155,122,0,Good,English
+Sergio Asenjo,30,Villarreal,ESP,Goalkeeper,30,0,1.5,0,48,0,0,19.66,9.62,0,0,2,2,4,Bad,Spanish
+Simão,31,Levante,MOZ,Defender,17,1,5.7,1,0,30,1,26.08,20.68,5,14,65,49,0,Bad,Spanish
+Gerónimo Rulli,27,R. Sociedad,ARG,Goalkeeper,39,0,1.7,0,39,0,0,20.08,11.26,0,0,0,0,13,Normal,Spanish
+Theo Walcott,30,Arsenal,ENG,Midfielder,5,1,6.5,2,0,2,10,21.22,14.57,6,15,4,4,0,Normal,English
+Jordi Amat,27,Celta,ESP,Defender,22,0,4.3,0,0,70,2,22.61,18.52,2,9,94,76,0,Normal,Spanish
+Gino Peruzzi,27,Leicester,ARG,Defender,18,4,8.4,0,0,166,44,56.31,41.13,1,2,116,98,0,Good,English
+Diego Laxalt,27,West Ham,URU,Midfielder,9,1,7.5,1,0,13,11,34.74,23.02,2,8,16,4,0,Normal,English
+Calum Chambers,25,Stoke,ENG,Defender,27,2,7.1,0,0,291,25,47.47,31.12,4,5,208,173,0,Good,English
+Héctor Bellerín,24,Arsenal,ESP,Defender,31,9,9.0,3,0,192,198,53.07,40.55,24,40,257,194,0,Good,English
+Theo Bongonda,24,Swansea,BEL,Midfielder,28,3,8.5,4,0,50,69,38.44,27.67,17,33,67,34,0,Good,English
+Nordin Amrabat,32,Watford,MAR,Midfielder,26,4,8.6,3,0,60,52,42.17,28.37,13,32,81,41,0,Normal,English
+Adam Forshaw,28,Brighton,ENG,Midfielder,13,1,8.4,0,0,27,15,54.13,38.15,1,3,29,23,0,Normal,English
+Paul Papp,30,Crystal Palace,ROU,Defender,27,0,6.4,0,0,234,2,45.55,33.02,2,9,82,73,0,Good,English
+M’Baye Niang,25,Crystal Palace,FRA,Midfielder,5,0,7.7,0,0,1,4,36.49,22.7,3,7,1,1,0,Normal,English
+Ibai Gómez,30,Deportivo,ESP,Midfielder,7,1,4.3,0,0,4,1,24.13,13.65,0,5,13,8,0,Bad,Spanish
+Ilias Moutha Sebtaoui,20,Man Utd,BEL,Goalkeeper,13,0,2.8,0,3,1,0,25.54,20.15,0,0,0,0,11,Good,English
+Aritz Elustondo,25,Granada,ESP,Defender,26,3,4.3,1,0,32,6,21.56,16.23,1,7,93,69,0,Bad,Spanish
+Luan,26,Liverpool,BRA,Midfielder,30,3,7.7,8,0,53,104,38.18,26.57,31,84,55,30,0,Good,English
+Valmir,21,Málaga,BRA,Defender,11,1,5.4,0,0,24,2,21.94,12.54,0,4,45,34,0,Bad,Spanish
+Rúben Vezo,25,Valencia,POR,Defender,37,2,4.7,2,0,115,15,25.08,19.73,7,21,147,120,0,Normal,Spanish
+Alex McCarthy,30,Southampton,ENG,Goalkeeper,7,0,2.7,0,8,0,0,27.82,19.5,0,0,0,0,2,Normal,English
+Sergi Palencia,23,Atlético,ESP,Defender,30,3,6.1,1,0,128,30,33.01,25.74,5,18,149,123,0,Good,Spanish
+Keylor Navas,33,R. Madrid,CRC,Goalkeeper,41,0,1.8,0,33,0,0,21.02,12.46,0,0,0,0,18,Good,Spanish
+Fabian Schär,28,Liverpool,SUI,Defender,14,0,5.9,0,0,98,3,36.71,27.39,2,8,33,28,0,Good,English
+Hugo Mallo,28,Celta,ESP,Defender,40,1,5.0,0,0,156,1,23.13,18.63,5,25,198,171,0,Normal,Spanish
+Pablo Íñiguez,26,Leicester,ESP,Defender,29,0,6.2,1,0,306,6,51.72,41.67,2,5,143,127,0,Good,English
+Islam Abakarov,20,CSKA Moscow,RUS,Midfielder,5,0,5.4,0,0,1,0,24.36,14.21,2,8,9,6,0,Bad,Other
+Simon Mignolet,31,Liverpool,BEL,Goalkeeper,27,0,2.9,0,44,3,0,27.62,16.83,0,0,0,0,8,Normal,English
+Adrien Duval,19,Elche,FRA,Defender,13,0,5.2,0,0,5,0,25.53,15.64,0,0,24,18,0,Bad,Spanish
+Álex Muñoz,25,Middlesbrough,ESP,Defender,22,0,6.7,1,0,265,5,39.99,27.38,3,6,74,59,0,Good,English
+Timothy Fosu-Mensah,22,Chelsea,NED,Defender,22,1,6.8,0,0,136,9,48.66,38.41,2,6,60,50,0,Good,English
+Rick Karsdorp,25,Arsenal,NED,Defender,15,4,8.5,0,0,41,41,51.86,41.17,2,4,56,42,0,Bad,English
+Mitchell Dijks,27,Celta,NED,Defender,17,2,5.2,0,0,29,4,26.3,20.6,1,1,50,40,0,Bad,Spanish
+Yrondu Musavu-King,28,Granada,GAB,Defender,5,0,4.6,0,0,5,0,18.58,13.12,0,1,14,11,0,Bad,Spanish
+Xabi Etxeita,32,Athletic,ESP,Defender,17,1,4.6,0,0,53,2,21.83,17.55,0,3,80,66,0,Normal,Spanish
+Jesús Vallejo,23,Man Utd,ESP,Defender,25,0,5.8,8,0,262,12,43.02,35.16,18,47,102,85,0,Good,English
+Mikael Larsson,19,Málaga,SWE,Midfielder,7,1,4.8,2,0,7,10,24.86,14.57,5,9,0,0,0,Normal,Spanish
+Matteo Darmian,30,R. Madrid,ITA,Defender,24,3,5.7,0,0,35,8,31.73,24.05,0,1,95,80,0,Bad,Spanish
+Henri Saivet,29,Newcastle,SEN,Midfielder,8,3,8.2,0,0,19,36,64.75,57.71,5,9,15,9,0,Good,English
+Cyrus Christie,27,Brighton,IRL,Defender,28,3,7.8,1,0,320,47,44.21,27.91,6,10,132,105,0,Good,English
+Thibaut Courtois,27,Chelsea,BEL,Goalkeeper,46,0,2.8,0,50,2,2,27.58,22.26,0,0,0,0,20,Good,English
+Keko,28,Málaga,ESP,Midfielder,27,3,4.3,5,0,29,20,27.03,16.62,18,62,10,3,0,Normal,Spanish
+Danny Rose,29,Tottenham,ENG,Defender,21,1,8.0,0,0,133,45,58.18,45.99,2,4,107,89,0,Good,English
+Krystian Bielik,22,Southampton,POL,Defender,7,0,6.3,0,0,89,1,50.29,37.43,1,4,30,23,0,Good,English
+Jamie Vardy,33,Leicester,ENG,Midfielder,26,2,7.7,11,0,17,43,26.94,19.5,36,86,31,13,0,Normal,English
+Mikel Balenziaga,32,Athletic,ESP,Defender,24,4,5.0,0,0,74,7,23.28,17.73,0,6,120,95,0,Normal,Spanish
+Jordan Veretout,27,Sunderland,FRA,Midfielder,12,0,7.6,1,0,42,19,49.46,39.05,2,5,40,29,0,Normal,English
+Rubén Rochina,28,Rayo,ESP,Midfielder,22,0,4.2,2,0,10,0,29.57,16.0,9,24,32,12,0,Bad,Spanish
+Muamer Tankovic,25,Brighton,SWE,Midfielder,17,1,7.1,6,0,14,18,31.33,24.24,11,19,17,6,0,Normal,English
+Munas Dabbur,27,Villarreal,ISR,Midfielder,21,2,4.4,4,0,14,3,25.17,17.96,20,38,22,9,0,Bad,Spanish
+Lionel Messi,32,FC Barcelona,ARG,Midfielder,38,8,4.5,10,0,85,49,60.91,41.44,40,87,63,38,0,Normal,Spanish
+Strahinja Karisic,22,Granada,SRB,Midfielder,18,0,4.7,2,0,12,3,32.9,25.6,7,21,16,7,0,Bad,Spanish
+Sofiane Feghouli,30,Valencia,ALG,Midfielder,29,6,5.3,3,0,25,21,27.98,16.2,15,27,58,33,0,Normal,Spanish
+Jon Gaztañaga,28,Athletic,ESP,Defender,25,4,4.8,1,0,100,12,35.41,29.82,1,7,151,118,0,Normal,Spanish
+Yûto Nagatomo,33,Espanyol,JPN,Defender,27,3,5.1,0,0,57,3,26.09,19.9,1,4,105,76,0,Bad,Spanish
+Nuno Santos,25,Valencia,POR,Midfielder,35,7,5.1,10,0,77,26,32.13,19.16,29,56,38,24,0,Normal,Spanish
+Federico Fernández,31,Swansea,ARG,Defender,25,0,6.2,1,0,308,4,47.79,35.32,3,6,97,82,0,Good,English
+João Miguel,24,Everton,POR,Goalkeeper,25,0,2.7,0,33,2,0,25.6,10.56,0,0,0,0,4,Bad,English
+Razak,32,Córdoba,GHA,Goalkeeper,27,0,1.6,0,52,0,0,13.33,4.63,0,0,0,0,3,Bad,Spanish
+Andrija Zivkovic,23,Atlético,SRB,Midfielder,36,6,5.3,13,0,70,52,36.72,23.07,57,122,30,15,0,Normal,Spanish
+José Mari,32,AFC Astra,ESP,Defender,21,2,1.6,1,0,8,0,23.17,16.08,1,11,57,42,0,Bad,Other
+Evan Bradbury,20,Sunderland,USA,Defender,25,1,6.6,0,0,205,17,35.29,22.99,2,4,115,85,0,Good,English
+Víctor,30,R. Sociedad,ESP,Midfielder,19,3,4.3,0,0,10,7,26.51,14.91,3,11,16,9,0,Normal,Spanish
+Ozan Tufan,24,Aston Villa,TUR,Midfielder,35,3,7.9,2,0,168,94,56.6,42.3,10,24,140,99,0,Good,English
+Roberto Rosales,31,Málaga,VEN,Defender,20,2,4.9,0,0,35,2,30.06,19.1,1,11,75,56,0,Bad,Spanish
+Sergio Álvarez,28,Newcastle,ESP,Midfielder,28,0,7.4,0,0,158,26,48.23,40.28,2,13,141,110,0,Normal,English
+Mateo Kovacic,25,R. Madrid,CRO,Midfielder,22,2,4.9,2,0,20,9,51.24,33.26,10,22,39,25,0,Normal,Spanish
+Liam Cullen,20,Swansea,WAL,Midfielder,10,0,7.0,1,0,4,12,33.8,24.23,10,21,10,3,0,Normal,English
+Chancel Mbemba,25,Newcastle,COD,Defender,36,4,7.1,0,0,369,84,52.15,39.84,2,13,229,195,0,Good,English
+Tiago Ruíz Díaz,22,Valencia,ARG,Defender,34,0,5.3,0,0,134,5,23.53,17.96,3,18,155,123,0,Normal,Spanish
+Joe Hart,32,Man City,ENG,Goalkeeper,39,0,2.8,0,54,1,0,27.89,22.19,0,0,0,0,10,Normal,English
+Marçal,31,Getafe,BRA,Defender,24,6,5.1,0,0,86,11,29.67,19.7,0,3,117,89,0,Normal,Spanish
+Franco Acosta,23,Middlesbrough,URU,Striker,25,2,6.9,5,0,7,35,23.68,18.23,7,25,27,13,0,Good,English
+Danny Welbeck,29,Stoke,ENG,Midfielder,21,2,7.1,7,0,15,39,27.68,19.17,23,49,32,14,0,Normal,English
+Federico Ricca,25,Málaga,URU,Defender,19,1,4.8,0,0,59,3,21.71,17.38,1,11,61,47,0,Normal,Spanish
+Dani Ceballos,23,Atlético,ESP,Midfielder,34,5,5.7,5,0,98,38,53.0,43.8,12,29,85,52,0,Normal,Spanish
+Ander Herrera,30,Watford,ESP,Midfielder,25,4,8.1,1,0,78,97,64.11,48.9,11,33,93,69,0,Good,English
+Marcel Sabitzer,25,Leicester,AUT,Midfielder,21,2,8.3,4,0,28,31,35.45,27.31,16,47,31,20,0,Normal,English
+Ricardo Rodríguez,27,Man City,SUI,Defender,36,5,7.8,0,0,304,67,51.8,40.73,3,10,288,240,0,Good,English
+Vincent Aboubakar,28,Chelsea,CMR,Striker,31,3,7.3,13,0,26,53,21.72,14.94,45,109,57,21,0,Good,English
+Simeon Slavchev,26,Stoke,BUL,Midfielder,19,1,7.9,2,0,65,13,63.71,49.06,10,26,56,48,0,Normal,English
+Aleksandar Dragovic,28,Arsenal,AUT,Defender,35,0,6.4,4,0,275,12,43.61,34.88,8,22,130,113,0,Good,English
+Lovre Kalinic,29,Brentford,CRO,Goalkeeper,32,0,2.9,0,52,2,1,29.47,10.5,0,0,0,0,4,Bad,English
+Christian Benteke,29,Everton,BEL,Striker,20,0,6.5,4,0,8,24,39.3,25.84,8,16,12,4,0,Bad,English
+Adalberto Peñaranda,22,Watford,VEN,Midfielder,23,1,8.5,4,0,73,44,40.29,28.98,20,42,96,59,0,Normal,English
+Óscar De Marcos,30,Athletic,ESP,Defender,27,3,5.2,4,0,29,10,25.71,16.0,13,51,35,27,0,Bad,Spanish
+Enzo Crivelli,25,Leicester,FRA,Striker,16,0,7.7,3,0,8,20,34.07,24.73,9,25,16,8,0,Bad,English
+Nicola Murru,25,Swansea,ITA,Defender,25,1,7.7,0,0,218,44,51.03,38.81,3,7,149,115,0,Good,English
+Facundo Roncaglia,33,Granada,ARG,Defender,26,2,5.2,0,0,124,4,25.46,20.92,1,7,127,100,0,Good,Spanish
+Emmanuel Mas,31,Celta,ARG,Defender,37,2,5.3,1,0,119,11,25.29,19.42,5,14,164,129,0,Normal,Spanish
+Graziano Pellè,34,Rayo,ITA,Midfielder,21,1,4.4,8,0,22,2,31.52,18.76,18,34,25,10,0,Bad,Spanish
+Jack Butland,26,Arsenal,ENG,Goalkeeper,36,0,2.8,0,24,1,0,25.64,21.86,0,0,0,0,21,Good,English
+Ricardo Horta,25,Newcastle,POR,Midfielder,9,1,8.5,2,0,9,52,48.39,39.58,6,13,17,8,0,Good,English
+Juan Antonio Segura,22,Albacete,ESP,Midfielder,25,3,4.7,1,0,15,6,37.78,23.0,4,14,34,19,0,Bad,Spanish
+Lewis Dunk,28,Brighton,ENG,Defender,9,0,6.3,0,0,88,3,30.0,19.28,0,0,38,34,0,Good,English
+Jay Rodriguez,30,Southampton,ENG,Midfielder,33,4,7.4,3,0,26,39,29.31,20.74,16,50,37,17,0,Normal,English
+Carlos Zambrano,30,Celta,PER,Defender,21,0,4.1,0,0,32,0,21.47,15.71,2,6,68,57,0,Bad,Spanish
+Daniel Carriço,31,Sevilla,POR,Defender,23,2,4.5,0,0,100,3,23.34,20.27,1,6,121,103,0,Good,Spanish
+Iker Muniain,27,Athletic,ESP,Midfielder,28,8,4.6,6,0,43,23,35.82,21.36,26,74,3,2,0,Normal,Spanish
+Bernard,27,Crystal Palace,BRA,Midfielder,27,5,8.3,11,0,60,99,39.1,28.92,36,56,92,51,0,Good,English
+Yoshinori Mutô,27,Stoke,JPN,Midfielder,32,2,7.8,7,0,54,67,31.67,22.82,30,54,111,60,0,Normal,English
+Kieran Gibbs,30,Crystal Palace,ENG,Defender,7,0,6.8,0,0,9,6,33.41,23.97,0,2,19,14,0,Bad,English
+Ryan Mason,28,Sunderland,ENG,Midfielder,29,3,8.1,1,0,125,56,57.11,45.73,10,22,131,103,0,Normal,English
+Che Nunnely,21,Man Utd,NED,Midfielder,19,5,8.1,6,0,24,93,39.66,31.88,20,42,47,25,0,Good,English
+Gustavo Cabral,34,Celta,ARG,Defender,14,1,4.8,0,0,60,3,22.02,17.91,0,3,79,67,0,Good,Spanish
+Steven N'Zonzi,31,Swansea,FRA,Midfielder,23,0,8.0,0,0,101,29,69.71,55.6,5,11,31,28,0,Normal,English
+Alberto De la Bella,34,R. Sociedad,ESP,Defender,15,7,4.8,0,0,62,10,28.02,21.72,1,1,72,57,0,Good,Spanish
+Casemiro,28,Valencia,BRA,Midfielder,42,2,5.5,3,0,104,13,35.42,28.24,7,21,214,158,0,Normal,Spanish
+Matthijs de Ligt,20,Getafe,NED,Defender,27,0,4.6,2,0,87,8,36.48,30.53,8,25,139,96,0,Normal,Spanish
+Julio Buffarini,31,R. Betis,ARG,Defender,36,6,5.8,1,0,66,13,25.12,18.39,4,13,151,112,0,Bad,Spanish
+Andreas Christensen,23,Chelsea,DEN,Defender,43,0,6.5,4,0,442,3,49.65,38.83,6,28,148,124,0,Good,English
+Michael McIntosh,19,Brentford,ENG,Striker,18,1,7.1,2,0,9,48,37.45,29.43,20,41,32,16,0,Bad,English
+Mikey Oliver,19,Blackburn,ENG,Midfielder,23,6,5.4,6,0,45,31,54.16,36.33,25,60,14,11,0,Normal,Other
+Jefferson Lerma,25,Villarreal,COL,Midfielder,31,6,5.2,2,0,103,22,34.77,28.73,8,23,154,103,0,Normal,Spanish
+Suso,26,Everton,ESP,Midfielder,31,12,7.9,4,0,49,70,42.19,27.12,14,35,76,47,0,Good,English
+Xabi Llorente,20,Athletic,ESP,Defender,27,2,4.2,0,0,81,8,46.57,34.69,0,8,146,125,0,Bad,Spanish
+Recio,29,Málaga,ESP,Midfielder,15,1,5.3,1,0,28,6,34.04,27.94,6,12,56,32,0,Normal,Spanish
+Edoardo Goldaniga,26,Newcastle,ITA,Defender,34,1,6.0,1,0,427,1,44.47,32.85,2,12,160,133,0,Good,English
+Yoel,31,Deportivo,ESP,Goalkeeper,12,0,1.4,0,18,0,1,17.41,7.84,0,0,2,1,3,Normal,Spanish
+Alexey Miranchuk,24,Watford,RUS,Midfielder,30,3,7.6,7,0,33,85,43.44,31.93,23,67,60,30,0,Good,English
+Cesc Fàbregas,32,R. Sociedad,ESP,Midfielder,17,3,4.3,1,0,25,3,45.27,31.96,3,8,30,21,0,Normal,Spanish
+Ignasi Castro,20,Alavés,ESP,Defender,5,0,4.5,0,0,19,0,19.0,13.0,0,2,23,18,0,Normal,Spanish
+John Brooks,27,Aston Villa,USA,Defender,26,2,5.8,0,0,308,10,36.07,25.59,3,9,77,67,0,Good,English
+Filip Djordjevic,32,Villarreal,SRB,Midfielder,16,1,4.9,9,0,13,3,27.03,16.68,23,47,11,4,0,Bad,Spanish
+Michael Gregoritsch,25,Brentford,AUT,Midfielder,29,7,8.2,5,0,109,70,42.67,30.68,24,57,77,40,0,Good,English
+Arthur Masuaku,26,Arsenal,COD,Defender,10,3,8.0,0,0,34,22,50.79,38.76,0,4,38,32,0,Normal,English
+Nenad Tomovic,32,Middlesbrough,SRB,Defender,30,1,7.0,1,0,268,15,38.7,26.18,2,5,113,89,0,Good,English
+Mark Noble,32,West Ham,ENG,Midfielder,15,0,7.9,0,0,37,15,56.49,45.55,0,5,45,30,0,Normal,English
+Aleksandar Mitrovic,25,Newcastle,SRB,Striker,25,2,7.1,5,0,34,60,38.77,28.87,20,57,36,16,0,Bad,English
+Gerard Deulofeu,25,Everton,ESP,Midfielder,10,1,9.0,1,0,14,13,39.93,26.62,6,10,16,9,0,Normal,English
+Iván Marcano,32,Getafe,ESP,Defender,23,1,4.7,0,0,71,6,19.21,14.93,0,11,102,84,0,Normal,Spanish
+Kenny Tete,24,Aston Villa,NED,Defender,30,7,8.1,0,0,222,101,52.13,38.75,3,6,174,137,0,Good,English
+Leroy Sané,24,R. Madrid,GER,Midfielder,19,5,4.9,5,0,15,15,26.8,15.58,19,47,3,2,0,Normal,Spanish
+Tom Thorpe,27,Middlesbrough,ENG,Defender,30,0,6.4,1,0,356,5,32.64,21.42,4,4,119,105,0,Good,English
+Pedro Obiang,27,West Ham,EQG,Midfielder,34,2,8.2,1,0,218,67,60.48,46.68,3,17,137,104,0,Normal,English
+Keziah Veendorp,23,West Ham,NED,Defender,18,0,6.2,0,0,121,0,33.08,19.56,1,3,40,35,0,Good,English
+Liam Bridcutt,30,Sunderland,SCO,Defender,16,3,7.4,0,0,55,18,52.19,39.59,2,3,64,45,0,Normal,English
+Nathaniel Ofori,20,R. Sociedad,GHA,Defender,27,2,4.4,0,0,99,2,21.39,15.75,1,9,119,103,0,Normal,Spanish
+Lewis Cook,23,Man Utd,ENG,Midfielder,18,1,7.4,0,0,111,19,53.58,48.65,6,11,76,61,0,Normal,English
+Ben Amos,29,Brighton,ENG,Goalkeeper,32,0,2.9,0,46,2,1,32.75,19.25,0,0,0,0,8,Normal,English
+Ryan Bertrand,30,Southampton,ENG,Defender,11,1,6.5,0,0,44,11,39.78,31.19,2,6,25,20,0,Normal,English
+Sergi Roberto,28,Liverpool,ESP,Midfielder,12,0,7.1,0,0,27,13,44.79,37.51,0,3,26,21,0,Normal,English
+Leandro Damião,30,R. Betis,BRA,Striker,23,2,4.5,10,0,18,7,23.55,13.19,33,62,10,4,0,Good,Spanish
+Sergio León,29,Levante,ESP,Midfielder,6,0,4.7,0,0,1,0,31.97,15.99,5,7,6,2,0,Bad,Spanish
+Miguel Costa,19,R. Betis,POR,Striker,36,3,5.7,16,0,34,16,22.71,13.24,58,128,6,3,0,Good,Spanish
+James Milner,34,Liverpool,ENG,Midfielder,19,5,8.4,0,0,76,39,53.71,37.41,5,12,49,41,0,Good,English
+Javier Eraso,29,Rayo,ESP,Midfielder,26,3,5.5,3,0,66,14,30.31,24.35,10,21,121,69,0,Normal,Spanish
+Douglas Costa,29,Tottenham,BRA,Midfielder,30,6,8.3,6,0,58,120,43.97,33.29,22,49,77,47,0,Good,English
+Samu Castillejo,25,Southampton,ESP,Midfielder,36,5,7.4,3,0,54,88,38.27,26.57,26,66,77,44,0,Good,English
+Sergio Ramos,33,R. Madrid,ESP,Defender,18,0,5.2,2,0,75,4,33.98,25.66,2,6,84,76,0,Good,Spanish
+Mikel Garate,20,R. Sociedad,ESP,Midfielder,18,3,4.7,6,0,32,6,23.88,17.32,13,23,20,10,0,Normal,Spanish
+Ben Osborn,25,Brentford,ENG,Midfielder,27,3,8.4,2,0,87,38,44.83,31.17,9,16,98,58,0,Normal,English
+Matthew Targett,24,Southampton,ENG,Defender,37,3,7.3,1,0,311,73,50.5,38.52,5,12,287,230,0,Good,English
+Diego,22,R. Betis,ESP,Midfielder,20,2,4.9,1,0,26,6,34.45,23.58,2,10,25,15,0,Normal,Spanish
+Nathan Redmond,25,Stoke,ENG,Midfielder,21,0,8.8,3,0,77,42,37.31,25.97,10,20,121,80,0,Normal,English
+Pepe Castaño,21,Villarreal,ESP,Defender,6,0,4.2,0,0,21,0,22.68,17.77,0,0,24,20,0,Normal,Spanish
+Toni Kroos,30,R. Madrid,GER,Midfielder,41,10,5.4,1,0,106,51,62.35,54.18,8,22,114,72,0,Normal,Spanish
+Kawikue dos Santos,20,Córdoba,POR,Defender,23,3,5.1,1,0,70,9,23.39,17.66,1,8,88,62,0,Normal,Spanish
+Luka Modric,34,R. Madrid,CRO,Midfielder,19,1,5.3,0,0,18,3,65.45,47.05,0,5,35,22,0,Bad,Spanish
+Migue García,28,Albacete,ESP,Midfielder,5,1,3.7,0,0,3,1,32.95,17.68,0,1,5,3,0,Bad,Spanish
+James Ward-Prowse,25,Newcastle,ENG,Midfielder,38,3,8.2,2,0,110,139,65.09,49.88,12,36,145,101,0,Good,English
+Omar Elabdellaoui,28,Sevilla,NOR,Defender,28,3,5.4,1,0,42,6,28.85,17.5,2,21,106,78,0,Bad,Spanish
+Fabian Wiesner,19,Everton,GER,Defender,19,0,5.8,0,0,166,3,29.6,21.29,1,4,59,54,0,Good,English
+Stephan El Shaarawy,27,Atlético,ITA,Midfielder,13,2,4.9,5,0,6,6,29.32,16.71,15,24,16,7,0,Normal,Spanish
+Stefano Sturaro,26,Leicester,ITA,Midfielder,27,4,8.1,3,0,206,86,72.39,57.38,7,28,117,88,0,Good,English
+Jagoba Martín,19,West Ham,ESP,Midfielder,6,0,7.0,1,0,6,8,39.4,30.0,2,2,13,10,0,Normal,English
+Ivan Rakitic,31,FC Barcelona,CRO,Midfielder,35,3,5.1,3,0,44,21,50.69,40.87,15,42,87,53,0,Normal,Spanish
+Ángel Correa,24,Atlético,ARG,Midfielder,21,6,5.0,3,0,23,14,47.98,30.09,9,31,25,15,0,Normal,Spanish
+Grzegorz Krychowiak,30,Sevilla,POL,Defender,31,0,5.6,2,0,134,5,22.29,18.42,4,17,156,128,0,Good,Spanish
+Ibrahim Diallo,23,Valencia,MLI,Defender,12,1,4.7,0,0,32,3,23.81,19.01,2,11,32,27,0,Bad,Spanish
+Óliver,25,Atlético,ESP,Midfielder,34,9,5.2,8,0,47,66,61.89,41.57,23,51,44,24,0,Normal,Spanish
+José Giménez,25,Atlético,URU,Defender,34,8,5.0,1,0,191,13,30.14,25.05,3,15,150,122,0,Good,Spanish
+Ander Iturraspe,30,Athletic,ESP,Midfielder,19,2,4.4,0,0,49,4,35.42,29.72,1,7,71,53,0,Normal,Spanish
+Francis Coquelin,28,Arsenal,FRA,Midfielder,24,1,8.0,0,0,86,37,49.3,40.16,1,9,75,60,0,Normal,English
+Jordon Ibe,24,Liverpool,ENG,Midfielder,23,2,8.7,0,0,63,61,38.34,27.2,10,25,62,41,0,Good,English
+Stefan Savic,29,Atlético,MNE,Defender,22,2,4.2,1,0,71,3,23.41,18.83,1,4,88,71,0,Normal,Spanish
+Joan Jordán,25,Rayo,ESP,Midfielder,21,1,4.4,0,0,12,1,34.13,21.04,0,2,39,25,0,Bad,Spanish
+Bruma,25,Chelsea,POR,Midfielder,29,3,8.5,2,0,49,69,37.79,27.39,17,41,70,34,0,Good,English
+Adam Clayton,31,Middlesbrough,ENG,Midfielder,19,1,7.8,0,0,132,18,52.91,40.11,6,20,81,60,0,Normal,English
+Léo Baptistão,27,Swansea,BRA,Midfielder,29,5,7.4,6,0,25,92,36.98,25.9,38,96,64,24,0,Good,English
+Cauley Woodrow,25,Brighton,ENG,Midfielder,26,5,6.9,8,0,22,53,30.55,22.71,27,58,51,31,0,Normal,English
+Nacer Chadli,30,Everton,BEL,Midfielder,22,3,7.8,3,0,30,35,43.15,29.71,15,27,26,15,0,Normal,English
+Ben Garratt,25,West Ham,ENG,Goalkeeper,33,0,2.8,0,49,1,1,29.55,12.6,0,0,0,0,7,Normal,English
+Juanfran,31,Watford,ESP,Defender,5,0,8.8,1,0,11,5,49.94,35.38,3,4,8,6,0,Bad,English
+Oscar Duarte,30,Rayo,CRC,Defender,28,2,4.3,1,0,99,2,19.36,15.04,3,14,130,100,0,Normal,Spanish
+Alexis Sánchez,31,Arsenal,CHI,Midfielder,32,6,7.0,8,0,29,200,32.96,25.8,37,66,66,32,0,Good,English
+Jonny Williams,26,Brentford,WAL,Midfielder,19,1,7.8,0,0,38,14,52.0,40.24,0,10,55,31,0,Normal,English
+Stanisa Mandic,24,Granada,MNE,Midfielder,22,0,4.4,4,0,24,2,24.19,13.43,16,31,19,7,0,Bad,Spanish
+Mousa Dembélé,32,Newcastle,BEL,Defender,10,0,8.2,0,0,31,28,67.97,55.01,1,9,38,29,0,Normal,English
+Sodiq Fatai,23,Getafe,NGA,Midfielder,24,2,4.5,2,0,23,6,22.1,11.09,11,36,8,3,0,Bad,Spanish
+Srdjan Babic,23,R. Sociedad,SRB,Defender,37,5,4.5,1,0,134,11,22.68,17.45,2,21,180,151,0,Normal,Spanish
+Dominic Solanke,22,Middlesbrough,NGA,Midfielder,13,1,6.7,4,0,8,9,23.24,18.05,12,20,9,4,0,Normal,English
+Matthew Ramsey,20,Man Utd,ENG,Defender,13,8,8.4,2,0,103,69,58.92,48.83,8,17,91,75,0,Good,English
+Dries Mertens,32,R. Sociedad,BEL,Midfielder,33,3,4.7,7,0,31,23,38.53,23.42,17,42,28,14,0,Normal,Spanish
+Oriol Romeu,28,Villarreal,ESP,Midfielder,30,5,5.3,1,0,58,9,36.51,30.85,2,6,100,75,0,Normal,Spanish
+Lucas Ventura,21,Espanyol,BRA,Midfielder,8,0,4.6,1,0,7,1,33.59,26.36,1,4,22,14,0,Bad,Spanish
+Markel Susaeta,32,Athletic,ESP,Midfielder,25,2,4.5,4,0,28,9,26.72,16.0,17,59,14,6,0,Normal,Spanish
+Jefferson Ríos,20,Córdoba,ESP,Midfielder,11,0,4.4,2,0,24,4,56.78,40.41,5,11,10,6,0,Normal,Spanish
+Willian,31,Chelsea,BRA,Midfielder,38,8,8.3,3,0,78,78,44.7,32.59,15,38,117,82,0,Normal,English
+Sabin,28,Athletic,ESP,Midfielder,25,2,4.3,6,0,13,3,23.23,15.73,17,53,38,16,0,Bad,Spanish
+Danny Drinkwater,29,Leicester,ENG,Midfielder,28,2,7.9,2,0,148,44,59.89,47.08,6,21,145,115,0,Normal,English
+Ignacio Camacho,29,Valencia,ESP,Defender,24,3,5.5,1,0,71,7,34.38,29.74,3,13,92,73,0,Bad,Spanish
+Antonio Mesa,23,Córdoba,ESP,Defender,15,0,4.2,0,0,52,2,20.08,15.02,1,4,63,48,0,Normal,Spanish
+Luciano Vietto,26,Liverpool,ARG,Striker,18,0,7.3,9,0,10,34,21.36,16.72,24,46,20,6,0,Good,English
+Javi Ramírez,25,Córdoba,ESP,Defender,9,0,4.3,0,0,20,0,21.93,16.73,0,1,33,26,0,Bad,Spanish
+Wilfried Zaha,27,Crystal Palace,ENG,Midfielder,28,5,8.5,5,0,73,73,34.44,24.19,21,49,66,36,0,Good,English
+David Carmona,23,Sevilla,ESP,Defender,19,2,4.5,1,0,21,3,23.59,13.46,6,20,31,21,0,Bad,Spanish
+Pau Cendrós,32,Córdoba,ESP,Defender,25,3,4.4,0,0,56,6,24.28,17.58,0,10,110,80,0,Bad,Spanish
+Paul Pogba,26,Man Utd,FRA,Midfielder,29,8,7.8,2,0,134,196,64.73,54.38,39,92,87,70,0,Good,English
+Sasa Markovic,28,Córdoba,SRB,Midfielder,21,0,4.3,1,0,39,0,34.23,27.89,1,13,70,53,0,Bad,Spanish
+Jack Baldwin,26,Brighton,ENG,Defender,29,1,6.3,2,0,397,12,42.64,29.36,4,17,116,100,0,Good,English
+Dininho,18,Crystal Palace,BRA,Defender,30,6,8.3,1,0,222,68,54.34,39.79,4,14,152,117,0,Good,English
+Yamil Asad,25,Celta,ARG,Midfielder,34,11,5.0,8,0,32,25,36.4,22.55,28,59,44,28,0,Normal,Spanish
+Thomas Foket,25,Brentford,BEL,Defender,31,1,7.6,0,0,272,44,40.32,28.12,1,6,169,115,0,Normal,English
+Chris Smalling,30,Man Utd,ENG,Defender,18,2,6.1,1,0,236,18,46.5,38.25,8,36,99,89,0,Good,English
+Sedeño,23,Córdoba,ESP,Defender,5,0,4.7,0,0,12,1,31.61,19.79,0,1,22,16,0,Bad,Spanish
+Édgar,30,Deportivo,ESP,Midfielder,21,1,4.3,0,0,15,2,24.65,13.53,5,15,30,10,0,Bad,Spanish
+Kristoffer Knudsen,20,Córdoba,NOR,Striker,8,0,5.1,1,0,6,2,21.28,10.74,5,17,8,3,0,Bad,Spanish
+Kamil Grabara,21,Liverpool,POL,Goalkeeper,5,0,2.6,0,1,0,0,20.73,8.72,0,0,0,0,4,Good,English
+Niklas Süle,24,Tottenham,GER,Defender,35,0,6.1,0,0,489,2,46.67,33.92,4,18,211,173,0,Good,English
+Daniel Bragança,20,Córdoba,POR,Midfielder,6,2,4.8,0,0,7,3,46.51,38.36,0,1,21,15,0,Normal,Spanish
+Lucas Souza,29,Córdoba,BRA,Midfielder,19,0,5.1,2,0,49,2,31.12,24.96,2,5,87,65,0,Bad,Spanish
+Ole Kristian Selnæs,25,Southampton,NOR,Midfielder,34,2,7.6,3,0,110,90,69.83,52.36,16,35,137,102,0,Good,English
+Ángelo Henríquez,25,Aston Villa,CHI,Striker,6,0,6.7,9,0,3,15,20.06,17.57,13,20,9,4,0,Good,English
+Rafa Gálvez,26,Córdoba,ESP,Defender,28,4,4.7,1,0,75,26,35.82,29.41,3,13,151,113,0,Bad,Spanish
+José Gayà,24,Valencia,ESP,Defender,40,4,5.4,1,0,133,18,34.27,22.71,2,15,159,119,0,Normal,Spanish
+Lucas,31,Sevilla,ESP,Midfielder,25,4,4.5,5,0,39,7,29.06,18.51,15,36,23,11,0,Normal,Spanish
+David De Gea,29,Man Utd,ESP,Goalkeeper,34,0,2.8,0,20,7,1,25.06,21.26,0,0,0,0,18,Good,English
+Alen Halilovic,23,Swansea,CRO,Midfielder,28,4,8.4,4,0,60,100,51.51,35.1,18,61,80,45,0,Good,English
+Pierre-Emerick Aubameyang,30,Valencia,GAB,Midfielder,39,2,4.9,22,0,58,8,22.54,13.0,78,126,11,5,0,Bad,Spanish
+Oscar,28,Chelsea,BRA,Midfielder,39,7,8.3,4,0,75,105,55.03,40.29,32,59,88,62,0,Good,English
+Andreas Beck,32,Villarreal,GER,Defender,28,1,5.5,2,0,78,6,28.37,22.57,2,6,116,89,0,Bad,Spanish
+José Ramón Paredes,20,Ponferradina,ESP,Striker,5,0,3.7,6,0,5,1,20.8,9.4,9,11,0,0,0,Good,Other
+David Peña,20,Valencia,ESP,Midfielder,5,0,4.6,2,0,5,0,26.49,14.81,5,14,5,3,0,Bad,Spanish
+Dodô,28,Watford,BRA,Defender,13,1,8.2,0,0,51,8,45.0,30.7,0,3,29,23,0,Normal,English
+Saúl,25,Córdoba,ESP,Defender,12,0,4.9,3,0,19,3,24.48,17.91,6,9,25,18,0,Bad,Spanish
+Mikel San José,30,Athletic,ESP,Defender,20,0,4.3,1,0,41,3,24.39,19.9,3,8,93,77,0,Bad,Spanish
+David Lombán,32,Granada,ESP,Defender,26,1,4.2,0,0,54,6,21.84,17.6,1,4,118,96,0,Bad,Spanish
+Luka Gucek,21,Getafe,SVN,Defender,23,5,4.7,0,0,74,8,24.55,18.51,1,14,100,78,0,Normal,Spanish
+Iñaki Williams,25,Athletic,LBR,Midfielder,28,1,4.9,9,0,16,1,23.5,12.69,26,57,30,11,0,Bad,Spanish
+Jordan Henderson,29,Liverpool,ENG,Midfielder,29,4,7.8,0,0,154,61,52.74,41.23,1,12,133,106,0,Good,English
+Iago Falqué,30,Celta,ESP,Midfielder,17,2,3.8,1,0,12,8,38.84,21.35,1,11,14,7,0,Normal,Spanish
+Jacinto,18,Girona,ESP,Midfielder,19,3,4.2,5,0,43,7,50.39,39.97,9,18,47,31,0,Normal,Other
+Samuel,29,Villarreal,ESP,Midfielder,8,0,5.0,0,0,4,1,33.8,20.83,5,15,6,3,0,Bad,Spanish
+Andrés Cubas,23,Man Utd,ARG,Midfielder,19,0,7.4,0,0,119,25,55.4,49.8,5,13,99,85,0,Normal,English
+Simon Gustafson,25,Tottenham,SWE,Midfielder,6,0,7.6,0,0,36,9,62.26,52.56,2,5,23,20,0,Normal,English
+Idrissa Gueye,30,Aston Villa,SEN,Midfielder,25,3,8.1,0,0,68,35,53.06,42.92,2,12,68,49,0,Normal,English
+Adil Rami,34,R. Sociedad,FRA,Defender,30,0,4.9,2,0,78,3,24.93,19.84,4,13,113,91,0,Bad,Spanish
+Pablo Fornals,24,Málaga,ESP,Midfielder,26,4,4.3,3,0,32,11,37.46,25.41,13,33,76,49,0,Normal,Spanish
+Matheus Pereira,22,Man Utd,BRA,Midfielder,16,1,7.7,7,0,26,62,45.9,37.78,24,44,42,23,0,Good,English
+Oscar Lewicki,27,Swansea,SWE,Midfielder,30,0,7.5,1,0,216,25,48.88,38.81,4,9,155,127,0,Normal,English
+Marc Valiente,32,Getafe,ESP,Defender,21,1,4.3,0,0,70,4,27.29,23.59,0,6,90,72,0,Normal,Spanish
+Joshua Kimmich,25,FC Barcelona,GER,Midfielder,41,2,5.8,5,0,40,25,47.66,38.47,18,37,121,78,0,Normal,Spanish
+George Thorne,27,Crystal Palace,ENG,Midfielder,15,1,7.7,1,0,59,34,63.36,46.68,3,6,46,35,0,Good,English
+David López,30,Villarreal,ESP,Defender,28,1,4.7,0,0,70,4,29.49,24.04,1,5,130,100,0,Bad,Spanish
+Jhon Córdoba,26,West Ham,COL,Striker,22,2,7.4,6,0,45,54,39.19,27.28,20,52,57,25,0,Normal,English
+Jonathan Tah,24,R. Madrid,GER,Defender,36,4,4.5,1,0,211,19,31.83,25.94,4,15,173,157,0,Good,Spanish
+Douglas Abner,24,Villarreal,BRA,Striker,25,1,4.8,5,0,14,2,22.69,12.5,19,45,28,11,0,Bad,Spanish
+Thorgan Hazard,26,Aston Villa,BEL,Midfielder,24,1,6.8,5,0,20,91,40.64,28.83,19,47,30,16,0,Good,English
+Luca Bittante,26,Levante,ITA,Defender,24,0,4.1,3,0,51,3,29.47,23.08,6,17,84,65,0,Bad,Spanish
+Àlex Corredera,23,Deportivo,ESP,Midfielder,9,0,4.1,0,0,1,0,35.48,22.07,0,2,13,6,0,Bad,Spanish
+Alberto Moreno,27,Liverpool,ESP,Defender,18,0,7.6,1,0,141,21,40.33,28.02,4,8,97,82,0,Good,English
+Moses Odubajo,26,Newcastle,NGA,Defender,14,3,8.7,0,0,44,49,51.84,42.65,6,15,41,29,0,Normal,English
+Aaron Ramsey,29,Arsenal,WAL,Midfielder,28,2,8.2,1,0,71,81,48.25,37.34,12,32,96,77,0,Good,English
+Álvaro Medrán,25,Levante,ESP,Midfielder,27,1,4.8,7,0,53,11,38.04,25.32,17,49,67,38,0,Normal,Spanish
+Pau López,25,Espanyol,ESP,Goalkeeper,26,0,1.6,0,41,0,0,13.33,4.94,0,0,8,5,2,Bad,Spanish
+Juninho,20,Villarreal,BRA,Defender,19,0,4.1,0,0,12,1,22.07,14.87,1,5,65,49,0,Bad,Spanish
+Óscar Arroyo,26,Albacete,ESP,Defender,18,0,4.9,1,0,24,0,22.76,16.19,2,10,73,54,0,Bad,Spanish
+Raúl García,33,Athletic,ESP,Midfielder,5,0,4.8,2,0,9,0,34.55,22.35,5,5,2,1,0,Bad,Spanish
+Daniel Wass,30,Celta,DEN,Defender,41,5,5.0,5,0,71,9,32.28,25.84,17,47,159,109,0,Bad,Spanish
+Chema,28,Rayo,ESP,Defender,17,0,4.2,0,0,50,3,20.41,15.72,0,3,73,57,0,Bad,Spanish
+Jake Bidwell,26,Brighton,ENG,Defender,33,4,7.5,1,0,305,51,48.68,34.69,5,10,206,163,0,Good,English
+Aitor Cantalapiedra,24,Albacete,ESP,Midfielder,26,3,4.6,1,0,26,6,22.17,11.79,5,17,41,17,0,Bad,Spanish
+José Antonio Larrazabal,20,R. Sociedad,ESP,Defender,9,0,4.6,0,0,6,1,21.74,13.89,0,0,19,16,0,Bad,Spanish
+Eric Bailly,25,Arsenal,CIV,Defender,34,1,6.2,5,0,351,7,37.3,27.43,8,24,108,94,0,Good,English
+Benjamin Stambouli,29,Everton,FRA,Defender,24,1,7.7,0,0,183,29,53.6,41.83,6,18,159,128,0,Good,English
+Jordan Amavi,25,Aston Villa,FRA,Defender,32,3,7.8,1,0,216,76,49.43,34.29,5,10,257,201,0,Good,English
+Asier Illarramendi,29,R. Sociedad,ESP,Midfielder,30,6,5.6,3,0,101,26,44.78,37.44,6,11,135,81,0,Normal,Spanish
+Lars Bender,30,Atlético,GER,Defender,37,1,6.4,2,0,79,6,37.15,30.73,12,28,122,84,0,Bad,Spanish
+Hirving Lozano,24,Chelsea,MEX,Midfielder,10,0,8.1,1,0,18,20,34.14,23.21,10,14,29,17,0,Normal,English
+Brandon Thomas,25,Deportivo,ESP,Midfielder,31,2,4.3,3,0,27,6,20.87,13.7,9,27,18,9,0,Bad,Spanish
+Memphis Depay,26,Atlético,NED,Midfielder,39,7,5.4,18,0,54,55,42.48,26.47,58,142,38,21,0,Normal,Spanish
+Carlos Vela,31,R. Sociedad,MEX,Midfielder,35,5,4.0,5,0,31,19,39.3,23.08,20,49,35,21,0,Normal,Spanish
+Francisco Jose Gómez,20,Atromitos,ESP,Striker,5,0,4.7,3,0,5,0,18.39,9.2,4,6,1,0,0,Good,Other
+Hulk,18,Alcorcón,BRA,Striker,22,0,4.2,8,0,16,2,29.42,16.24,28,55,16,5,0,Normal,Other
+Sergio Álvarez,33,Celta,ESP,Goalkeeper,32,0,1.6,0,46,0,0,19.5,10.81,0,0,0,0,8,Normal,Spanish
+Vurnon Anita,30,Newcastle,NED,Midfielder,6,0,7.7,1,0,18,4,56.17,47.72,1,3,13,10,0,Normal,English
+Cristo González,22,Middlesbrough,ESP,Midfielder,16,3,6.6,8,0,11,67,32.6,22.56,19,39,27,6,0,Good,English
+Tuur Dierckx,24,Málaga,BEL,Midfielder,22,3,4.0,4,0,8,3,23.88,11.94,11,36,33,15,0,Bad,Spanish
+Raúl Albiol,34,Watford,ESP,Defender,17,0,6.2,0,0,140,3,37.49,26.61,1,2,48,40,0,Good,English
+Philipp Schobesberger,26,Brentford,AUT,Midfielder,7,0,8.4,0,0,15,4,41.52,25.91,1,1,22,9,0,Normal,English
+Marios Oikonomou,27,Crystal Palace,GRE,Defender,7,0,5.8,0,0,70,2,38.4,27.0,1,2,21,16,0,Good,English
+Sean Klaiber,25,Everton,NED,Defender,21,1,8.0,0,0,158,44,54.52,42.22,5,8,176,131,0,Good,English
+Nacho López,32,Albacete,ESP,Defender,7,0,4.1,0,0,22,0,30.14,23.57,0,4,32,25,0,Normal,Spanish
+Koo Ja-Cheol,31,Leicester,KOR,Midfielder,7,2,8.5,1,0,12,17,60.32,46.15,1,5,12,8,0,Good,English
+Emre Taşdemir,24,Valencia,TUR,Defender,6,0,4.9,0,0,4,0,23.02,15.35,0,1,17,12,0,Bad,Spanish
+Pedro Mosquera,31,Deportivo,ESP,Midfielder,28,5,4.6,1,0,25,16,40.36,26.72,1,7,66,39,0,Normal,Spanish
+Michael Anaba,26,Elche,GHA,Midfielder,23,1,4.9,0,0,16,4,30.44,17.79,1,10,38,19,0,Bad,Spanish
+Marouane Fellaini,32,Olympique Lyonnais,BEL,Defender,30,3,5.7,2,0,40,6,35.48,23.37,9,25,97,66,0,Bad,Other
+Andrés Iniesta,35,Málaga,ESP,Midfielder,13,0,4.1,0,0,14,2,60.42,41.62,2,5,27,14,0,Bad,Spanish
+Bruno Méndez,20,Alavés,URU,Striker,24,5,4.4,11,0,38,9,19.84,12.72,45,81,6,3,0,Good,Spanish
+Joe Gomez,22,Liverpool,ENG,Defender,22,0,6.4,0,0,277,6,38.53,27.2,0,4,95,77,0,Good,English
+Nicolaj Thomsen,26,Deportivo,DEN,Midfielder,27,8,5.3,5,0,39,17,37.82,23.42,13,23,31,16,0,Normal,Spanish
+Diego Godín,34,Atlético,URU,Defender,26,0,5.1,1,0,159,2,31.31,26.15,1,9,130,108,0,Good,Spanish
+Jeroen Zoet,29,Aston Villa,NED,Goalkeeper,38,0,2.7,0,45,0,0,25.85,16.67,0,0,0,0,13,Normal,English
+Cenk Tosun,28,Deportivo,TUR,Midfielder,30,1,4.8,10,0,20,3,22.36,15.59,42,97,25,9,0,Bad,Spanish
+Luca Sangalli,25,Córdoba,ESP,Midfielder,24,1,4.5,6,0,20,20,35.43,22.46,11,40,4,3,0,Normal,Spanish
+Hernâni,28,Espanyol,POR,Midfielder,25,4,4.0,2,0,15,10,23.88,12.82,13,34,29,13,0,Normal,Spanish
+Davide Zappacosta,27,Swansea,ITA,Defender,30,1,8.3,1,0,334,81,54.48,39.12,3,6,179,151,0,Good,English
+Andros Townsend,28,West Ham,ENG,Midfielder,14,4,8.8,1,0,27,27,41.3,30.47,9,33,25,9,0,Normal,English
+Ryan Shawcross,32,Stoke,ENG,Defender,29,0,6.2,1,0,364,1,30.55,17.57,2,5,128,114,0,Good,English
+Julen Arellano,23,Aston Villa,ESP,Defender,13,0,7.8,0,0,60,32,52.14,38.06,0,1,74,51,0,Normal,English
+Aymen Abdennour,30,Valencia,TUN,Defender,33,3,4.7,1,0,107,5,23.26,18.93,1,7,152,129,0,Normal,Spanish
+Juan Cámara,26,Elche,ESP,Midfielder,26,1,4.4,0,0,21,7,32.68,18.5,4,10,37,18,0,Bad,Spanish
+Lamine Koné,31,Sunderland,CIV,Defender,31,0,6.2,1,0,339,5,32.37,20.34,3,7,90,81,0,Good,English
+Adrien,30,Arsenal,POR,Midfielder,23,1,8.3,0,0,48,48,55.77,44.28,2,7,38,31,0,Normal,English
+John Stones,25,Man City,ENG,Defender,39,0,6.4,4,0,487,21,45.7,34.05,6,13,130,111,0,Good,English
+Nicolás Schiappacasse,21,Atromitos,URU,Striker,18,2,4.9,3,0,6,2,26.1,15.33,15,30,17,6,0,Normal,Other
+Jack Cork,30,Swansea,ENG,Midfielder,17,1,7.8,1,0,38,7,48.42,37.02,2,3,30,20,0,Normal,English
+Florin Andone,26,Aston Villa,ROU,Striker,12,3,6.9,3,0,9,35,28.56,20.87,11,28,9,3,0,Normal,English
+Toño,30,Granada,ESP,Defender,29,5,4.8,0,0,85,9,25.37,19.82,0,2,120,86,0,Bad,Spanish
+Alejandro Arribas,30,Deportivo,ESP,Defender,29,1,4.5,2,0,116,5,20.03,16.14,2,7,152,127,0,Normal,Spanish
+James McCarthy,29,Everton,IRL,Midfielder,18,0,7.2,0,0,151,19,45.0,36.12,1,3,134,112,0,Normal,English
+Javi Jiménez,32,Elche,ESP,Goalkeeper,29,0,1.5,0,50,0,0,14.86,6.03,0,0,0,0,7,Normal,Spanish
+Bernardo Silva,25,Man City,POR,Midfielder,28,1,8.5,1,0,43,82,61.11,44.94,21,45,51,32,0,Good,English
+Fabio Borini,28,Sunderland,ITA,Midfielder,33,4,7.3,12,0,27,105,32.92,25.44,43,115,81,48,0,Good,English
+Marcos Llorente,25,Espanyol,ESP,Midfielder,28,6,4.7,1,0,74,23,41.16,34.23,4,17,109,72,0,Normal,Spanish
+Pape Cheikh,22,Celta,ESP,Midfielder,11,0,5.3,0,0,9,0,41.91,34.24,4,7,33,21,0,Bad,Spanish
+Sergio Rico,26,Málaga,ESP,Goalkeeper,31,0,1.4,0,36,0,0,19.06,8.95,0,0,2,1,8,Normal,Spanish
+Anaitz Arbilla,32,Espanyol,ESP,Defender,10,0,4.5,0,0,12,0,25.22,17.96,0,2,32,23,0,Bad,Spanish
+Zé Gomes,20,Man Utd,POR,Striker,16,1,7.1,15,0,3,38,29.46,23.89,33,57,21,8,0,Good,English
+Kiko Casilla,33,Watford,ESP,Goalkeeper,27,0,2.8,0,36,0,0,29.01,18.0,0,0,1,1,6,Normal,English
+Florian Thauvin,27,Middlesbrough,FRA,Midfielder,28,5,8.6,0,0,78,67,40.26,27.12,7,18,91,61,0,Good,English
+Lee Seung-Woo,22,Girondins de Bordeaux,KOR,Midfielder,7,3,4.9,1,0,6,5,25.46,12.55,3,9,4,3,0,Normal,Other
+Bruno César,31,Espanyol,BRA,Midfielder,13,0,4.2,1,0,5,4,37.57,22.71,3,8,20,9,0,Bad,Spanish
+Ioannis Fetfatzidis,29,R. Betis,GRE,Midfielder,16,0,5.0,0,0,9,10,40.55,25.13,5,10,27,11,0,Normal,Spanish
+Marko Grujic,23,Liverpool,SRB,Midfielder,22,2,8.2,3,0,173,51,66.54,46.92,11,29,97,70,0,Good,English
+Diego Costa,31,Everton,ESP,Midfielder,35,2,7.1,11,0,28,64,30.22,21.86,41,93,66,21,0,Normal,English
+Alain Oyarzun,26,Rayo,ESP,Midfielder,27,7,4.3,0,0,20,7,24.09,17.82,2,9,29,10,0,Normal,Spanish
+Juan Carlos,32,Albacete,ESP,Goalkeeper,22,0,1.5,0,42,0,0,19.23,9.41,0,0,0,0,2,Bad,Spanish
+Ulisses Garcia,24,Liverpool,POR,Defender,8,0,7.7,0,0,76,17,48.98,36.59,1,1,51,37,0,Good,English
+Léo Bonatini,25,Getafe,BRA,Striker,26,2,4.4,12,0,20,7,22.0,15.43,26,61,16,5,0,Good,Spanish
+Íñigo Núñez,20,Athletic,ESP,Midfielder,5,0,4.5,1,0,2,0,33.16,18.95,1,4,5,2,0,Bad,Spanish
+Liam Moore,27,Sunderland,JAM,Defender,6,0,6.3,0,0,43,1,38.97,19.59,0,0,16,14,0,Good,English
+Mirko Pigliacelli,26,Levante,ITA,Goalkeeper,9,0,1.8,0,13,0,0,17.67,8.0,0,0,0,0,1,Bad,Spanish
+Lukas Spendlhofer,26,Stoke,AUT,Defender,21,1,6.9,0,0,162,10,44.01,32.81,0,6,76,68,0,Good,English
+Clifford Aboagye,25,Granada,GHA,Midfielder,30,12,4.8,1,0,54,26,40.3,26.14,10,38,30,12,0,Normal,Spanish
+Andrea Poli,30,Sunderland,ITA,Midfielder,27,2,8.0,0,0,135,45,52.04,42.38,8,14,114,89,0,Normal,English
+Carlos Abad,24,Valencia,ESP,Goalkeeper,41,0,1.6,0,44,0,0,14.15,5.65,0,0,2,1,12,Normal,Spanish
+Samu,25,Elche,ESP,Defender,29,3,4.4,1,0,35,9,23.06,15.85,4,22,60,32,0,Bad,Spanish
+Jessy Pi,26,Brighton,FRA,Midfielder,29,3,8.0,0,0,147,68,51.85,40.96,3,17,134,99,0,Good,English
+Vlad Chiriches,30,Watford,ROU,Defender,10,1,6.3,0,0,86,1,35.44,26.09,0,1,35,28,0,Good,English
+Vitolo,30,Sevilla,ESP,Midfielder,28,10,5.1,9,0,23,20,31.89,18.77,27,51,27,13,0,Normal,Spanish
+Ahmed Elmohamady,32,Brighton,EGY,Defender,21,3,8.7,0,0,79,41,39.66,25.72,6,15,76,50,0,Normal,English
+Callum Gribbin,21,Man Utd,ENG,Midfielder,16,5,7.8,2,0,46,115,73.04,58.29,10,28,58,37,0,Good,English
+Jaume Costa,31,Villarreal,ESP,Defender,27,1,5.3,0,0,67,7,26.69,20.62,0,2,114,90,0,Bad,Spanish
+Odion Ighalo,30,Sunderland,NGA,Midfielder,17,2,6.6,1,0,4,24,32.97,22.76,15,23,16,5,0,Normal,English
+Antonio Luna,28,Deportivo,ESP,Defender,27,3,5.0,0,0,49,4,27.54,17.27,1,6,105,81,0,Bad,Spanish
+James McArthur,32,Crystal Palace,SCO,Midfielder,13,1,8.2,1,0,17,11,60.21,50.43,2,5,18,14,0,Normal,English
+Markus Henriksen,27,Leicester,NOR,Midfielder,15,0,7.5,0,0,65,10,58.44,45.84,2,7,26,21,0,Normal,English
+Rodri,29,Rayo,ESP,Midfielder,26,2,5.0,8,0,20,2,22.89,16.64,27,54,30,9,0,Bad,Spanish
+Youssef El Arabi,33,Granada,MAR,Midfielder,28,2,4.4,10,0,25,13,23.04,12.93,35,87,7,2,0,Normal,Spanish
+Tonny Sanabria,24,Liverpool,PAR,Midfielder,14,2,7.1,9,0,10,35,27.24,19.25,22,30,24,8,0,Good,English
+Vukasin Jovanovic,23,R. Madrid,SRB,Defender,5,0,4.4,0,0,10,0,24.23,20.19,0,1,22,19,0,Bad,Spanish
+Gian Filippo Felicioli,22,Crystal Palace,ITA,Defender,12,3,7.7,1,0,14,18,36.79,25.13,4,10,14,9,0,Bad,English
+Callum Wilson,28,Crystal Palace,ENG,Striker,21,2,7.2,7,0,6,53,28.72,20.92,20,44,32,14,0,Good,English
+Fidel,30,Córdoba,ESP,Midfielder,29,7,4.3,4,0,25,21,27.11,15.6,16,43,15,6,0,Normal,Spanish
+Ravel Morrison,27,Brentford,ENG,Midfielder,13,1,7.7,0,0,27,36,56.79,40.97,2,5,24,12,0,Good,English
+Lewis Baker,24,Brentford,ENG,Midfielder,32,0,8.0,4,0,188,105,64.99,47.94,11,23,189,126,0,Good,English
+Rafa Castillo,19,Levante,ESP,Striker,22,1,4.6,7,0,26,3,22.49,13.06,35,65,24,8,0,Normal,Spanish
+Son Heung-Min,27,Everton,KOR,Midfielder,27,2,7.9,6,0,45,55,37.74,25.78,23,50,61,36,0,Normal,English
+Ben Marshall,28,Middlesbrough,ENG,Defender,26,5,8.6,2,0,75,55,50.15,26.74,9,42,65,49,0,Bad,English
+Martín Montoya,28,FC Barcelona,ESP,Defender,40,2,5.6,0,0,151,44,34.42,27.67,2,24,176,138,0,Normal,Spanish
+Francisco Varela,25,Leicester,ESP,Defender,28,2,7.7,0,0,248,50,56.36,44.11,4,12,176,127,0,Good,English
+Jurgi Oteo,23,Athletic,ESP,Midfielder,6,0,4.3,0,0,3,0,22.97,11.25,0,1,12,6,0,Bad,Spanish
+Fernando Llorente,35,Sevilla,ESP,Midfielder,11,0,4.9,1,0,5,0,35.77,23.85,6,18,11,6,0,Bad,Spanish
+Sergio Canales,29,Celta,ESP,Midfielder,24,5,4.0,6,0,40,13,49.89,31.76,14,39,35,21,0,Normal,Spanish
+Giannelli Imbula,27,Stoke,COD,Midfielder,30,1,8.2,1,0,158,42,60.74,46.75,9,30,134,113,0,Normal,English
+Jorginho,20,R. Betis,BRA,Defender,34,1,4.9,0,0,28,7,41.88,31.76,0,0,118,90,0,Bad,Spanish
+João Filipe,20,Espanyol,POR,Midfielder,6,0,4.7,2,0,6,3,32.52,18.22,4,12,9,4,0,Normal,Spanish
+Jefferson Ríos,20,Córdoba,ESP,Midfielder,11,0,4.4,2,0,24,4,56.78,40.41,5,11,10,6,0,Normal,Spanish
+Phil Jones,28,Leicester,ENG,Defender,25,2,6.8,0,0,344,19,54.94,41.77,0,7,137,120,0,Good,English
+Jordan Rhodes,30,Brentford,SCO,Striker,12,0,6.4,0,0,2,10,27.61,18.4,5,11,3,1,0,Bad,English
+Jonathan Silva,25,Atlético,ARG,Defender,24,3,5.1,0,0,86,13,30.7,24.66,0,3,107,85,0,Normal,Spanish
+Jorge Fernandes,22,Everton,POR,Defender,22,1,6.0,1,0,250,4,33.79,23.12,2,6,87,79,0,Good,English
+Sergio Busquets,31,FC Barcelona,ESP,Defender,39,6,5.6,3,0,206,40,46.38,40.07,13,36,221,162,0,Good,Spanish
+Ben Chilwell,23,Leicester,ENG,Defender,10,0,7.2,0,0,60,9,49.6,34.28,0,1,25,17,0,Normal,English
+Cristian Tello,28,Valencia,ESP,Midfielder,15,1,4.8,2,0,9,2,25.64,13.84,9,19,14,6,0,Bad,Spanish
+Hiram Boateng,24,Middlesbrough,GHA,Midfielder,31,2,8.1,2,0,216,54,61.16,44.55,3,15,117,90,0,Normal,English
+Mario Götze,27,Newcastle,GER,Midfielder,36,1,7.7,6,0,61,122,47.97,37.37,20,58,114,66,0,Good,English
+Scott Dann,33,Crystal Palace,ENG,Defender,27,0,6.2,0,0,219,4,41.71,33.2,1,6,71,68,0,Good,English
+Steve Cook,28,Swansea,ENG,Defender,18,0,6.3,0,0,201,2,48.14,33.98,1,4,57,53,0,Good,English
+Samu,26,Albacete,ESP,Midfielder,22,2,4.2,2,0,13,5,25.59,13.93,4,14,48,30,0,Bad,Spanish
+Jimmy Durmaz,30,Getafe,SWE,Midfielder,7,0,4.3,2,0,5,2,27.25,14.74,5,11,4,2,0,Bad,Spanish
+Valentin Vada,23,Leicester,ARG,Midfielder,22,7,8.2,4,0,36,139,62.89,45.19,19,34,44,29,0,Good,English
+Lucas,24,Man Utd,FRA,Defender,11,0,6.0,1,0,98,5,40.91,31.73,4,9,40,32,0,Good,English
+Gabriel Seijas,25,Rayo,ARG,Midfielder,29,8,4.7,3,0,50,11,23.34,16.56,6,15,46,22,0,Normal,Spanish
+Timo Werner,23,FC Barcelona,GER,Midfielder,28,1,5.0,4,0,16,0,25.98,17.32,20,43,31,12,0,Bad,Spanish
+Mitchell Weiser,25,Celta,GER,Defender,31,3,4.4,2,0,22,5,28.47,16.44,4,15,64,45,0,Bad,Spanish
+Christian Eriksen,28,Tottenham,DEN,Midfielder,36,2,8.4,4,0,77,180,61.53,46.15,25,50,100,58,0,Good,English
+Andrija Vukcevic,23,Sevilla,MNE,Defender,19,2,4.5,0,0,28,4,21.48,14.68,1,7,63,50,0,Bad,Spanish
+Patrick Roberts,23,Man City,ENG,Midfielder,8,0,8.5,2,0,3,14,48.89,35.6,6,16,15,3,0,Normal,English
+Anders Konradsen,29,Getafe,NOR,Midfielder,26,4,5.5,2,0,19,9,33.5,20.43,8,22,78,46,0,Normal,Spanish
+Harlee Dean,28,Brentford,ENG,Defender,33,0,6.1,1,0,419,2,34.1,20.58,2,13,150,124,0,Good,English
+Bart Ramselaar,23,Aston Villa,NED,Midfielder,28,2,8.4,1,0,61,61,51.99,41.97,5,23,66,43,0,Good,English
+Koke,28,Atlético,ESP,Midfielder,38,9,5.9,5,0,122,23,50.83,42.17,18,51,161,109,0,Normal,Spanish
+Jesús Rueda,33,Elche,ESP,Defender,6,0,4.8,0,0,25,1,22.17,18.83,0,0,32,27,0,Good,Spanish
+Francisco Javier Ponsí,20,Real Unión,ESP,Midfielder,11,0,4.2,5,0,8,1,37.61,19.89,16,25,7,3,0,Bad,Other
+Moussa Konaté,26,Granada,SEN,Midfielder,30,0,4.5,10,0,20,1,22.11,11.82,33,71,23,8,0,Bad,Spanish
+Miullen,21,Córdoba,BRA,Striker,24,0,4.3,5,0,14,0,24.23,13.63,21,38,22,7,0,Normal,Spanish
+Ki Sung-Yeung,31,Espanyol,KOR,Midfielder,16,2,4.6,2,0,26,6,41.88,34.22,4,6,57,40,0,Normal,Spanish
+Andreas Samaris,30,Sevilla,GRE,Midfielder,27,0,5.3,4,0,39,3,29.51,23.14,11,30,108,64,0,Bad,Spanish
+Raphaël Varane,26,R. Madrid,FRA,Defender,39,2,4.9,2,0,248,9,30.92,26.17,3,13,180,165,0,Good,Spanish
+Virgil van Dijk,28,Southampton,NED,Defender,31,0,5.8,2,0,348,5,39.77,29.09,5,20,144,123,0,Good,English
+Rodrigo Ely,26,Newcastle,BRA,Defender,35,1,6.3,0,0,393,3,46.07,33.68,3,7,120,102,0,Good,English
+Salvador Ichazo,28,Granada,URU,Goalkeeper,6,0,1.6,0,11,0,0,19.78,8.7,0,0,3,3,1,Bad,Spanish
+Mario Pasalic,25,Chelsea,CRO,Midfielder,41,1,7.9,3,0,192,67,57.98,47.75,15,55,178,147,0,Normal,English
+Semih Kaya,29,Levante,TUR,Defender,13,1,4.1,0,0,37,1,18.72,14.0,0,3,58,48,0,Bad,Spanish
+Mandi,31,Elche,ESP,Defender,11,0,5.3,0,0,20,1,27.77,18.18,0,4,36,21,0,Bad,Spanish
+Lorenzo Reyes,28,R. Betis,CHI,Midfielder,38,5,5.6,2,0,70,15,33.87,26.57,10,27,168,108,0,Normal,Spanish
+Philipp Wollscheid,30,Leicester,GER,Defender,14,0,6.1,0,0,120,2,44.05,33.71,0,4,33,30,0,Good,English
+Kurt Zouma,25,Chelsea,FRA,Defender,37,0,6.7,4,0,557,9,49.8,35.47,14,37,196,167,0,Good,English
+Erik Lamela,28,Tottenham,ARG,Midfielder,12,0,8.4,2,0,11,24,45.42,33.94,6,14,18,15,0,Normal,English
+Kevin De Bruyne,28,Man City,BEL,Midfielder,38,11,8.4,2,0,80,213,70.08,51.85,18,42,137,78,0,Good,English
+Alen Djurdjek,22,FC Barcelona,CRO,Midfielder,18,3,5.2,5,0,17,9,37.0,22.42,8,10,27,16,0,Normal,Spanish
+Roberto Firmino,28,Liverpool,BRA,Midfielder,24,5,8.3,3,0,49,111,50.98,39.3,22,42,79,43,0,Good,English
+Danilo,28,R. Madrid,BRA,Defender,35,5,6.1,1,0,103,60,39.73,28.61,4,19,152,127,0,Bad,Spanish
+Moi Gómez,25,Southampton,ESP,Midfielder,23,4,7.7,1,0,30,54,50.14,38.07,5,12,37,28,0,Good,English
+Gedion Zelalem,23,Stoke,USA,Midfielder,14,0,8.0,1,0,69,30,61.49,43.0,5,14,54,39,0,Normal,English
+Ludwig Augustinsson,25,Crystal Palace,SWE,Defender,30,3,7.7,2,0,272,40,47.16,35.23,3,10,226,176,0,Good,English
+Jeffrey Bruma,28,Levante,NED,Defender,22,0,4.3,0,0,68,2,21.43,14.16,0,11,84,64,0,Normal,Spanish
+Koen Casteels,27,Sunderland,BEL,Goalkeeper,37,0,2.8,0,37,5,1,27.16,9.03,0,0,0,0,13,Normal,English
+Fábio Cardoso,25,Sevilla,POR,Defender,12,0,4.2,0,0,33,0,22.41,18.96,1,7,44,38,0,Bad,Spanish
+Molla Wague,29,Granada,MLI,Defender,12,0,4.4,0,0,24,0,20.5,15.21,1,5,26,22,0,Bad,Spanish
+Enzo Roco,27,Espanyol,CHI,Defender,29,2,4.6,1,0,72,10,19.79,15.07,3,17,145,119,0,Bad,Spanish
+Charlie Taylor,26,Brentford,ENG,Defender,30,0,7.3,1,0,310,32,47.56,31.67,2,4,273,222,0,Good,English
+Tommie Hoban,26,Watford,IRL,Defender,21,0,6.1,0,0,222,1,34.71,24.83,0,4,76,67,0,Good,English
+Iosu Ibarbia,24,Elche,ESP,Defender,12,0,4.7,0,0,24,0,26.86,19.71,0,1,48,36,0,Bad,Spanish
+Gabriel Barbosa,23,Tottenham,BRA,Midfielder,35,4,8.0,8,0,16,62,35.75,27.26,30,56,25,15,0,Normal,English
+César Azpilicueta,30,Chelsea,ESP,Defender,38,4,8.0,1,0,329,87,58.83,38.61,6,24,268,218,0,Good,English
+Juanfran,35,Levante,ESP,Defender,24,4,4.9,0,0,67,10,30.29,24.22,3,12,93,72,0,Bad,Spanish
+Bastos,28,Southampton,ANG,Defender,23,0,5.8,0,0,268,3,39.69,28.83,3,12,88,77,0,Good,English
+Rafinha,27,FC Barcelona,BRA,Midfielder,32,6,5.7,10,0,58,24,45.8,31.2,29,73,61,41,0,Normal,Spanish
+Juanmi,26,Southampton,ESP,Midfielder,21,2,8.0,2,0,18,49,31.97,24.92,19,32,20,15,0,Good,English
+Asier Riesgo,36,Albacete,ESP,Goalkeeper,6,0,1.7,0,12,0,0,17.5,8.17,0,0,0,0,0,Bad,Spanish
+Jandro,29,Córdoba,ESP,Midfielder,26,4,4.2,4,0,15,6,36.54,20.71,8,24,27,8,0,Bad,Spanish
+Hakan Çalhanoglu,26,Chelsea,TUR,Midfielder,27,1,8.2,3,0,35,67,56.9,40.98,14,26,36,21,0,Good,English
+Rubén Blanco,24,Middlesbrough,ESP,Goalkeeper,30,0,2.9,0,47,3,2,28.45,9.1,0,0,0,0,4,Bad,English
+José Ricardo,21,Rayo,BRA,Defender,5,0,4.2,0,0,2,0,40.74,30.32,0,1,8,4,0,Bad,Spanish
+Sergi Darder,26,Man City,ESP,Midfielder,23,0,7.9,1,0,101,50,62.45,53.86,12,43,86,66,0,Good,English
+Javi Gómez,22,Rayo,ESP,Defender,20,0,4.4,0,0,71,0,20.15,15.89,1,5,84,64,0,Normal,Spanish
+Zach Clough,24,Stoke,ENG,Midfielder,10,2,6.9,2,0,3,21,31.07,22.32,6,17,13,4,0,Good,English
+Georginio Wijnaldum,29,Newcastle,NED,Midfielder,25,1,8.4,2,0,26,47,51.11,39.0,7,13,40,29,0,Normal,English
+Riechedly Bazoer,23,R. Madrid,NED,Defender,35,4,5.9,5,0,119,43,43.78,36.58,17,44,154,113,0,Normal,Spanish
+Mohamed Salah,27,Valencia,EGY,Midfielder,5,0,4.9,2,0,7,8,29.66,18.92,8,13,6,2,0,Normal,Spanish
+Luis Suárez,33,FC Barcelona,URU,Midfielder,42,13,5.8,29,0,72,43,39.39,24.44,80,160,29,13,0,Normal,Spanish
+Mile Svilar,20,Swansea,BEL,Goalkeeper,25,0,2.9,0,32,0,0,31.76,23.2,0,0,1,1,6,Normal,English
+Xiker,23,Athletic,ESP,Defender,21,0,4.4,0,0,86,1,18.79,14.22,1,4,95,78,0,Good,Spanish
+Mohammed Elyounoussi,25,Watford,NOR,Midfielder,22,5,8.2,1,0,48,39,46.97,31.43,7,16,62,38,0,Normal,English
+Izunna Uzochukwu,29,Deportivo,ZIM,Defender,15,1,5.7,0,0,26,3,23.5,17.34,2,7,47,33,0,Bad,Spanish
+Fraser Forster,31,Southampton,ENG,Goalkeeper,36,0,2.5,0,29,0,0,25.98,19.38,0,0,0,0,18,Good,English
+Danny Wilson,28,Brentford,SCO,Defender,5,0,5.7,0,0,34,0,35.76,27.72,0,1,19,16,0,Good,English
+Lucas Orbán,31,Stoke,ARG,Defender,12,1,7.2,0,0,80,12,37.5,25.95,0,0,81,65,0,Good,English
+Jan Oblak,27,Atlético,SVN,Goalkeeper,37,0,1.9,0,40,1,2,18.73,10.3,0,0,0,0,10,Normal,Spanish
+André Ayew,30,Leicester,GHA,Midfielder,16,2,8.2,1,0,26,35,41.27,29.54,3,12,29,15,0,Good,English
+Israel Puerto,26,Rayo,ESP,Defender,24,0,4.2,0,0,33,1,18.83,13.81,0,1,96,73,0,Bad,Spanish
+Burgui,26,Levante,ESP,Midfielder,17,1,4.1,1,0,11,1,28.43,16.03,6,21,29,16,0,Bad,Spanish
+Jordan Ayew,28,Aston Villa,GHA,Midfielder,29,7,6.7,18,0,20,64,26.82,19.29,37,74,27,10,0,Good,English
+Brendan Galloway,23,Everton,ENG,Defender,32,0,6.3,1,0,355,11,39.64,28.51,6,19,179,151,0,Good,English
+Victor Wanyama,28,Southampton,KEN,Midfielder,20,0,7.0,1,0,74,19,46.21,34.89,10,26,86,68,0,Normal,English
+Rui Pedro,21,Tottenham,POR,Striker,14,3,7.2,5,0,6,39,27.41,20.61,21,46,25,12,0,Good,English
+Nathaniel Ofori,20,R. Sociedad,GHA,Defender,27,2,4.4,0,0,99,2,21.39,15.75,1,9,119,103,0,Normal,Spanish
+Iago Aspas,32,Celta,ESP,Midfielder,35,4,5.0,16,0,31,11,31.37,19.1,46,94,25,11,0,Normal,Spanish
+Nico Elvedi,23,Sunderland,SUI,Defender,31,1,6.1,2,0,385,9,32.04,19.85,4,15,95,81,0,Good,English
+Vlad Dragomir,20,Levante,ROU,Midfielder,24,3,4.7,3,0,23,14,30.47,19.91,13,30,23,16,0,Normal,Spanish
+Jack Grealish,24,Aston Villa,ENG,Midfielder,22,3,7.3,5,0,18,40,44.76,32.12,16,33,27,14,0,Normal,English
+Ivan Perisic,31,Stoke,CRO,Midfielder,5,0,8.6,0,0,13,5,46.63,29.38,0,5,10,9,0,Normal,English
+Joe Rankin-Costello,20,Tottenham,ENG,Defender,6,0,7.9,0,0,22,20,92.6,70.39,3,6,20,14,0,Normal,English
+Aziz Behich,29,Albacete,AUS,Defender,26,1,5.2,0,0,54,2,24.02,17.53,0,3,118,88,0,Bad,Spanish
+Denis Suárez,26,Newcastle,ESP,Midfielder,29,2,8.2,5,0,47,130,57.72,44.54,13,34,71,45,0,Good,English
+Hugo Lloris,33,Tottenham,FRA,Goalkeeper,40,0,2.9,0,39,6,0,26.13,20.55,0,0,0,0,13,Normal,English
+Gylfi Sigurðsson,30,Swansea,ISL,Midfielder,32,2,8.5,1,0,114,140,63.94,48.55,17,39,105,72,0,Good,English
+Rafa Mir,22,Celta,ESP,Midfielder,15,0,5.0,3,0,12,7,24.97,14.2,13,22,17,10,0,Normal,Spanish
+Shani Tarashaj,25,Brentford,SUI,Midfielder,31,4,6.9,6,0,23,132,35.81,26.73,32,65,59,31,0,Good,English
+Haris Seferovic,28,Middlesbrough,SUI,Striker,27,2,6.9,9,0,15,56,27.83,21.1,32,63,49,18,0,Normal,English
+Simon Tibbling,25,Stoke,SWE,Midfielder,27,2,8.2,1,0,130,55,58.96,43.11,5,15,147,104,0,Normal,English
+Álvaro Giménez,28,Elche,ESP,Midfielder,26,1,4.5,11,0,35,4,24.86,13.5,34,60,15,4,0,Bad,Spanish
+Carlos Vigaray,25,Getafe,ESP,Defender,14,1,4.4,2,0,25,4,20.18,14.21,4,8,52,38,0,Bad,Spanish
+Javi Espinosa,27,Crystal Palace,ESP,Midfielder,18,1,7.9,1,0,20,19,62.24,48.64,7,11,22,16,0,Normal,English
+Anthony Knockaert,28,Brighton,FRA,Midfielder,29,6,8.5,3,0,52,65,47.9,32.07,11,25,54,35,0,Good,English
+Quique,29,Elche,ESP,Midfielder,23,0,4.1,8,0,37,2,30.63,18.36,19,41,27,11,0,Bad,Spanish
+Aleix Febas,24,Granada,ESP,Midfielder,21,1,4.4,2,0,10,3,38.26,30.78,3,6,37,22,0,Bad,Spanish
+Sergio Agüero,31,Man City,ARG,Midfielder,17,3,7.5,10,0,6,68,38.0,28.64,46,90,39,15,0,Good,English
+Ignacio Abeledo,24,R. Betis,ESP,Midfielder,18,8,4.7,3,0,25,20,27.44,19.21,14,22,18,10,0,Normal,Spanish
+Ramiro García,20,Levante,ESP,Striker,8,0,4.4,1,0,5,0,22.38,14.42,9,16,7,2,0,Bad,Spanish
+Álvaro Negredo,34,Córdoba,ESP,Midfielder,16,0,3.6,3,0,18,0,38.27,24.37,12,26,18,9,0,Bad,Spanish
+Carl Jenkinson,28,Crystal Palace,ENG,Defender,13,1,7.8,0,0,53,8,52.36,36.31,0,1,29,22,0,Good,English
+Filip Krovinovic,24,Villarreal,CRO,Midfielder,31,9,5.1,9,0,59,22,39.03,25.0,27,76,4,2,0,Normal,Spanish
+Guido Carrillo,28,Southampton,ARG,Striker,14,1,6.5,2,0,13,17,34.21,24.93,11,27,10,2,0,Bad,English
+Sídnei,30,Deportivo,BRA,Defender,27,3,4.4,0,0,112,5,20.89,17.3,4,17,129,107,0,Good,Spanish
+Steven Bergwijn,22,West Ham,NED,Midfielder,28,4,8.2,6,0,67,42,36.96,27.16,9,29,95,45,0,Normal,English
+Stole Dimitrievski,26,Granada,MKD,Goalkeeper,28,0,1.5,0,44,0,0,13.64,5.36,0,0,8,6,4,Bad,Spanish
+José Ignacio,20,Deportivo,ESP,Striker,21,0,5.0,5,0,13,3,20.91,13.58,17,37,21,6,0,Bad,Spanish
+Xavier Díaz,19,Espanyol,ESP,Midfielder,7,1,5.9,0,0,5,1,23.12,15.17,3,5,7,3,0,Bad,Spanish
+Martin Ødegaard,21,Tottenham,NOR,Midfielder,24,6,8.4,5,0,46,98,60.62,44.26,16,24,54,37,0,Good,English
+Raman Chibsah,26,Villarreal,GHA,Midfielder,27,1,5.4,0,0,69,5,30.52,24.02,3,16,108,68,0,Normal,Spanish
+Fabian Johnson,32,Middlesbrough,USA,Defender,8,2,8.2,0,0,45,17,37.25,26.75,4,10,47,30,0,Normal,English
+Alphonse Areola,27,Stoke,FRA,Goalkeeper,33,0,2.8,0,31,3,1,25.39,8.94,0,0,0,0,16,Good,English
+José León,25,Málaga,ESP,Defender,11,2,4.1,0,0,40,4,21.3,17.61,0,0,49,39,0,Normal,Spanish
+Pablo Dragún,21,Man Utd,ARG,Defender,12,7,8.5,1,0,70,97,60.17,52.08,7,15,66,52,0,Good,English
+Winston Reid,31,West Ham,NZL,Defender,30,0,6.2,0,0,418,2,33.99,22.06,4,10,128,115,0,Good,English
+Arkadiusz Milik,26,Brighton,POL,Striker,25,2,6.8,11,0,43,72,39.91,28.95,36,66,45,17,0,Good,English
+Patrick Kudimbana,20,Getafe,FRA,Midfielder,26,2,5.2,5,0,24,4,19.37,8.81,23,44,4,0,0,Bad,Spanish
+Ramiro Guerra,22,Villarreal,URU,Defender,5,0,5.1,0,0,1,0,32.64,27.69,0,0,11,8,0,Bad,Spanish
+Fabián Noguera,26,Málaga,ARG,Defender,31,1,4.2,3,0,91,2,20.06,16.06,7,20,151,122,0,Bad,Spanish
+Dejan Drazic,24,R. Betis,SRB,Midfielder,24,0,4.2,3,0,43,9,26.48,15.3,7,22,55,29,0,Bad,Spanish
+Leandro Castán,33,Levante,BRA,Defender,9,0,4.5,0,0,24,2,21.03,16.79,1,3,39,35,0,Bad,Spanish
+Harry Maguire,26,Stoke,ENG,Defender,16,0,6.1,0,0,159,0,32.2,20.08,1,2,57,47,0,Good,English
+Luis Hernández,30,R. Betis,ESP,Defender,20,6,5.0,0,0,61,15,27.25,19.87,1,6,69,52,0,Normal,Spanish
+Anthony Martial,24,Man Utd,FRA,Midfielder,36,4,6.9,35,0,17,148,26.89,21.3,70,137,54,26,0,Good,English
+Thomas Delaney,28,Brighton,DEN,Midfielder,32,0,7.8,2,0,215,37,54.11,43.76,5,19,213,171,0,Normal,English
+Tomás Pina,32,Granada,ESP,Defender,30,4,5.5,1,0,63,21,29.9,23.56,6,22,137,80,0,Bad,Spanish
+Ivan Cavaleiro,26,Tottenham,POR,Midfielder,15,1,8.5,1,0,16,39,41.79,31.18,6,18,30,15,0,Good,English
+Juan Fernando Quintero,27,West Ham,COL,Midfielder,23,1,8.2,2,0,52,65,65.53,47.09,9,15,51,28,0,Good,English
+Massimo Bruno,26,West Ham,BEL,Midfielder,28,2,8.3,1,0,50,73,51.28,36.2,6,14,76,44,0,Good,English
+Dani García,29,Brighton,ESP,Midfielder,20,3,7.9,0,0,56,23,55.49,43.91,2,7,44,33,0,Normal,English
+Lautaro Rinaldi,26,R. Sociedad,ARG,Striker,29,1,5.3,9,0,22,11,25.21,17.79,44,91,30,11,0,Normal,Spanish
+Erik Morán,28,Getafe,ESP,Midfielder,25,3,4.5,0,0,72,14,43.21,37.35,0,2,101,71,0,Normal,Spanish
+Nicolás Otamendi,32,Man City,ARG,Defender,32,1,6.3,1,0,351,6,47.32,36.73,6,10,111,97,0,Good,English
+Jetro Willems,25,R. Madrid,NED,Defender,29,3,5.9,1,0,106,47,40.55,29.07,1,5,120,93,0,Normal,Spanish
+Pedro,32,Celta,ESP,Midfielder,37,4,5.1,9,0,71,16,24.88,14.63,23,63,38,20,0,Normal,Spanish
+Joshua Onomah,22,Tottenham,ENG,Midfielder,32,5,8.1,0,0,105,101,73.24,55.95,7,20,98,73,0,Good,English
+Benjamin Mendy,25,Chelsea,FRA,Defender,15,0,7.6,0,0,139,25,53.48,39.13,0,2,112,92,0,Good,English
+Moussa Dembélé,23,West Ham,FRA,Striker,24,3,6.9,12,0,25,64,34.32,24.76,41,77,42,16,0,Good,English
+Stanimir Kirilov,19,Getafe,BUL,Defender,19,0,3.9,0,0,52,1,23.01,18.71,0,0,91,72,0,Bad,Spanish
+Joaquín Arzura,26,R. Sociedad,ARG,Midfielder,13,0,5.7,1,0,19,4,38.04,30.19,2,11,55,37,0,Normal,Spanish
+Riyad Mahrez,29,Leicester,ALG,Midfielder,31,7,8.4,11,0,58,123,46.56,32.54,30,67,93,55,0,Good,English
+Jack Wilshere,28,Sunderland,ENG,Midfielder,30,2,8.3,0,0,122,69,50.49,36.93,5,21,150,117,0,Good,English
+Joel Campbell,27,Stoke,CRC,Midfielder,18,1,8.3,2,0,32,27,39.68,28.58,6,14,31,19,0,Normal,English
+Rubén Pardo,27,Málaga,ESP,Midfielder,28,5,4.6,0,0,23,9,45.08,36.79,1,4,68,42,0,Normal,Spanish
+Balão,20,Barnsley,BRA,Defender,6,2,4.3,0,0,18,2,24.33,16.5,1,2,29,23,0,Bad,English
+Oussama Tannane,25,Brighton,MAR,Midfielder,26,3,6.7,6,0,16,63,33.16,23.23,27,54,28,9,0,Good,English
+Alejandro Pozo,21,Sevilla,ESP,Midfielder,11,0,4.8,1,0,6,0,25.93,14.12,2,7,12,7,0,Bad,Spanish
+Jordan Pickford,25,Crystal Palace,ENG,Goalkeeper,31,0,2.9,0,37,0,0,30.45,22.58,0,0,0,0,10,Normal,English
+Ryan Gauld,24,FC Barcelona,SCO,Midfielder,15,3,4.8,2,0,21,6,47.62,32.21,5,16,24,15,0,Normal,Spanish
+Isco,27,Sevilla,ESP,Midfielder,31,5,4.2,6,0,21,12,46.78,29.32,19,46,36,18,0,Normal,Spanish
+Daryl Janmaat,30,Newcastle,NED,Defender,30,5,7.8,0,0,186,76,51.94,39.77,1,4,182,153,0,Good,English
+Javi Martínez,31,Man City,ESP,Defender,32,1,7.4,2,0,210,34,51.39,42.32,8,15,145,125,0,Good,English
+Francisco Bravo,20,Elche,ESP,Midfielder,25,5,5.4,0,0,64,17,42.71,34.29,2,9,110,66,0,Normal,Spanish
+Jack Harper,24,Brighton,SCO,Midfielder,27,4,8.2,5,0,76,67,39.84,27.01,14,25,77,43,0,Good,English
+Jorge Meré,22,Chelsea,ESP,Defender,8,1,6.0,0,0,66,2,43.3,33.5,1,3,20,18,0,Good,English
+Rubén García,26,Levante,ESP,Midfielder,29,2,4.4,8,0,23,12,24.25,13.72,17,33,33,11,0,Normal,Spanish
+Neymar,28,FC Barcelona,BRA,Midfielder,37,14,4.9,10,0,66,53,55.14,34.5,37,88,36,19,0,Normal,Spanish
+Augusto Echeverría,21,Elche,ARG,Defender,30,2,5.5,1,0,61,8,23.01,17.0,3,16,109,78,0,Bad,Spanish
+Nando,25,Valencia,ESP,Midfielder,8,3,4.5,2,0,8,8,26.22,15.49,4,12,6,6,0,Normal,Spanish
+Daniel Amartey,25,Leicester,GHA,Defender,17,0,7.1,2,0,90,10,53.53,43.89,3,9,44,38,0,Good,English
+Valon Berisha,27,Southampton,NOR,Midfielder,23,3,8.3,1,0,43,75,75.6,58.56,13,44,64,46,0,Good,English
+Eric Dier,26,Tottenham,ENG,Defender,29,1,7.2,1,0,232,36,51.89,39.15,2,3,149,121,0,Good,English
+Fran Rico,32,Granada,ESP,Midfielder,20,3,4.7,0,0,27,7,33.7,27.36,1,5,65,36,0,Normal,Spanish
+Alejandro Rodríguez,26,Albacete,ESP,Midfielder,26,0,4.3,0,0,24,7,28.35,21.72,0,3,83,48,0,Normal,Spanish
+Álvaro Morata,27,R. Madrid,ESP,Striker,28,5,5.0,13,0,26,12,34.36,20.29,38,76,29,13,0,Good,Spanish
+Dimitris Giannoulis,24,Brentford,GRE,Defender,8,0,8.2,0,0,34,11,39.39,28.16,3,5,25,16,0,Normal,English
+Ross Barkley,26,Everton,ENG,Midfielder,28,8,7.2,4,0,60,60,55.78,40.61,13,20,64,39,0,Good,English
+Sead Kolasinac,26,West Ham,BIH,Defender,27,0,7.5,0,0,278,41,46.42,31.93,2,5,164,132,0,Good,English
+Dele Alli,23,Tottenham,ENG,Midfielder,35,4,7.7,1,0,278,108,54.92,44.08,18,34,203,159,0,Good,English
+Khouma Babacar,26,Chelsea,SEN,Midfielder,21,6,7.2,5,0,25,47,32.9,22.36,33,71,19,9,0,Good,English
+Ayoze Pérez,26,Atlético,ESP,Midfielder,39,9,5.6,19,0,36,35,29.9,18.7,62,119,18,9,0,Normal,Spanish
+Lucas Digne,26,Everton,FRA,Defender,29,1,7.5,0,0,262,38,46.56,33.69,0,5,208,163,0,Good,English
+Mateo Musacchio,29,Villarreal,ARG,Defender,25,2,4.3,0,0,121,5,26.4,23.04,0,4,144,124,0,Good,Spanish
+Dimitri Payet,32,West Ham,FRA,Midfielder,27,7,8.0,4,0,38,73,47.68,34.56,6,18,73,40,0,Good,English
+Adrián Ortolà,26,R. Betis,ESP,Goalkeeper,28,0,1.9,0,49,0,0,20.25,11.07,0,0,0,0,5,Bad,Spanish
+Churre,30,Albacete,ESP,Defender,28,1,5.1,1,0,99,3,19.36,14.64,1,8,141,116,0,Normal,Spanish
+Ludovic Soulard,21,Getafe,FRA,Midfielder,20,0,4.3,1,0,11,3,35.51,26.77,2,3,29,19,0,Bad,Spanish
+Miguel Ángel Martín,20,Granada,ESP,Striker,18,1,4.3,3,0,18,2,22.75,14.57,15,34,10,3,0,Bad,Spanish
+José Ángel,30,Deportivo,ESP,Defender,15,1,5.0,0,0,22,5,28.91,17.47,0,1,50,39,0,Bad,Spanish
+Romelu Lukaku,26,Arsenal,BEL,Striker,23,2,6.9,8,0,18,44,22.91,16.81,24,52,26,6,0,Good,English
+Jagoba Martín,19,West Ham,ESP,Midfielder,6,0,7.0,1,0,6,8,39.4,30.0,2,2,13,10,0,Normal,English
+Alex Oxlade-Chamberlain,26,Arsenal,ENG,Midfielder,34,1,8.3,3,0,130,151,52.92,43.04,17,33,110,65,0,Good,English
+Seamus Coleman,31,Everton,IRL,Defender,26,4,8.0,0,0,235,51,46.9,33.31,2,5,172,133,0,Good,English
+Kasper Schmeichel,33,Leicester,DEN,Goalkeeper,31,0,3.0,0,37,4,1,33.29,26.58,0,0,0,0,6,Bad,English
+Sergi Enrich,30,R. Betis,ESP,Midfielder,18,0,5.1,6,0,9,1,24.38,17.05,15,41,6,3,0,Bad,Spanish
+Bruno,29,R. Betis,ESP,Defender,25,2,4.8,1,0,104,3,21.69,16.36,1,9,106,85,0,Good,Spanish
+Mattia De Sciglio,27,Man City,ITA,Defender,26,3,7.6,0,0,180,46,49.41,39.52,3,5,131,95,0,Good,English
+Josuha Guilavogui,29,Watford,FRA,Midfielder,23,0,7.5,0,0,206,27,51.68,39.07,0,6,157,118,0,Normal,English
+Joe Allen,29,Liverpool,WAL,Midfielder,17,2,7.9,1,0,77,44,63.13,49.94,6,18,67,50,0,Good,English
+Pape Diop,33,Espanyol,SEN,Defender,26,4,5.8,1,0,39,14,32.72,26.56,6,11,105,64,0,Bad,Spanish
+Toby Alderweireld,31,Tottenham,BEL,Defender,33,0,6.0,1,0,350,11,43.57,34.9,3,12,154,132,0,Good,English
+James Rodríguez,28,R. Madrid,COL,Midfielder,26,9,5.7,9,0,42,28,54.08,35.35,31,78,24,12,0,Normal,Spanish
+Yannick Gerhardt,25,West Ham,GER,Midfielder,29,2,8.1,2,0,189,70,58.64,46.06,8,28,201,137,0,Good,English
+Daley Sinkgraven,24,Newcastle,NED,Midfielder,32,0,8.0,2,0,79,84,62.0,49.98,13,34,85,56,0,Good,English
+Mats Møller Dæhli,25,Aston Villa,NOR,Midfielder,29,8,8.0,5,0,70,131,56.06,40.16,13,28,69,48,0,Good,English
+Christian Bravo,26,Granada,CHI,Midfielder,5,0,4.4,1,0,3,0,22.89,14.35,2,3,2,1,0,Bad,Spanish
+Victor Lindelöf,25,Liverpool,SWE,Defender,17,1,6.6,1,0,183,9,43.19,28.44,1,5,76,71,0,Good,English
+Karim Benzema,32,R. Madrid,FRA,Midfielder,32,8,4.9,10,0,23,36,35.27,21.42,32,69,27,13,0,Normal,Spanish
+Renato Sanches,22,Man Utd,POR,Midfielder,23,7,7.9,5,0,56,145,59.92,50.2,13,32,74,49,0,Good,English
+Luca Marrone,29,Granada,ITA,Defender,13,1,4.6,0,0,25,3,26.99,22.11,0,0,41,28,0,Bad,Spanish
+Rob Schoofs,25,Levante,BEL,Midfielder,23,4,5.5,3,0,18,8,31.04,19.55,8,22,28,16,0,Normal,Spanish
+Felipe Caicedo,31,Espanyol,ECU,Midfielder,28,2,5.0,13,0,28,7,23.0,13.21,40,79,4,1,0,Bad,Spanish
+Charis Mavrias,26,Córdoba,GRE,Midfielder,16,1,4.5,1,0,8,2,24.27,16.36,3,8,17,8,0,Bad,Spanish
+Felix Passlack,21,Man Utd,GER,Defender,34,21,8.3,1,0,189,247,58.38,49.25,12,26,228,168,0,Good,English
+Sam Byram,26,Liverpool,ENG,Defender,13,3,8.0,0,0,76,45,45.92,36.31,0,3,47,34,0,Good,English
+Kelechi Iheanacho,23,Man City,NGA,Striker,6,3,7.6,2,0,2,24,47.62,37.52,18,46,17,8,0,Good,English
+Laurent Koscielny,34,Arsenal,FRA,Defender,14,0,5.8,0,0,71,0,31.56,22.56,1,5,32,28,0,Good,English
+Jaume Domènech,29,Celta,ESP,Goalkeeper,10,0,1.5,0,9,0,0,15.7,6.1,0,0,0,0,4,Normal,Spanish
+Luka Jovic,22,Valencia,SRB,Striker,12,0,4.0,2,0,7,0,25.05,13.88,19,32,18,7,0,Normal,Spanish
+Nikola Lolic,20,Rayo,SRB,Striker,5,0,5.2,2,0,6,0,23.07,16.73,9,17,6,2,0,Normal,Spanish
+Javi Manquillo,25,Atlético,ESP,Defender,18,2,5.5,0,0,63,6,24.39,17.78,2,8,67,54,0,Normal,Spanish
+Raffidine Abdullah,26,Valencia,FRA,Midfielder,38,8,5.7,3,0,77,25,37.25,30.14,14,33,140,90,0,Normal,Spanish
+Dorin Rotariu,24,Southampton,ROU,Midfielder,27,3,6.7,8,0,20,35,28.82,21.02,28,58,33,9,0,Normal,English
+William Carvalho,27,Man City,POR,Defender,30,0,7.4,1,0,188,20,47.31,39.76,2,4,123,105,0,Good,English
+Artem Fedetskyi,34,Espanyol,UKR,Defender,26,1,5.8,0,0,64,4,24.28,18.18,4,22,122,93,0,Bad,Spanish
+Imanol Agirretxe,33,R. Sociedad,ESP,Midfielder,29,1,5.0,10,0,30,9,38.81,24.91,21,59,25,9,0,Bad,Spanish
+Hélder Almeida,21,Espanyol,POR,Midfielder,23,2,5.0,1,0,26,9,41.87,26.82,9,23,43,26,0,Normal,Spanish
+José Carlos,20,Athletic,ESP,Defender,10,0,4.2,0,0,25,0,23.51,18.77,1,3,37,34,0,Bad,Spanish
+Markos Vellidis,32,Rayo,GRE,Goalkeeper,28,0,1.5,0,52,0,0,17.16,7.23,0,0,1,1,1,Bad,Spanish
+Vicente Guaita,33,Getafe,ESP,Goalkeeper,28,0,1.7,0,44,0,0,17.57,8.11,0,0,0,0,4,Bad,Spanish
+Kevin-Prince Boateng,32,R. Sociedad,GHA,Defender,27,0,4.7,1,0,32,1,25.81,16.82,7,14,69,53,0,Bad,Spanish
+Héctor Rodas,31,Córdoba,ESP,Defender,27,2,4.5,0,0,72,2,20.21,16.04,0,7,135,107,0,Bad,Spanish
+Grégory Hernández,19,R. Valladolid,ESP,Striker,25,0,4.4,5,0,18,1,24.69,15.55,18,41,32,14,0,Bad,Other
+Álex Grimaldo,24,Arsenal,ESP,Defender,31,10,8.7,3,0,149,109,63.54,47.35,8,18,247,192,0,Good,English
+Jonny,26,Chelsea,ESP,Defender,33,4,7.9,2,0,300,40,45.94,32.97,6,13,253,202,0,Good,English
+Bruno Zuculini,26,Aston Villa,ARG,Midfielder,31,1,7.5,0,0,147,43,45.8,36.49,5,16,129,103,0,Normal,English
+Asier Villalibre,22,Athletic,ESP,Striker,12,0,5.1,3,0,4,0,24.3,12.6,9,18,9,4,0,Normal,Spanish
+John Obi Mikel,32,Newcastle,NGA,Defender,22,0,7.5,0,0,88,18,45.48,37.71,3,7,78,61,0,Normal,English
+Kepa Arrizabalaga,25,Athletic,ESP,Goalkeeper,28,0,1.3,0,37,0,2,19.65,10.58,0,0,5,3,7,Normal,Spanish
+Nathaniel Clyne,28,Liverpool,ENG,Defender,24,0,8.1,1,0,234,86,54.67,40.31,4,8,176,151,0,Good,English
+Philippe Coutinho,27,Tottenham,BRA,Midfielder,36,7,8.2,4,0,60,163,51.86,37.51,41,104,98,64,0,Good,English
+Dani Parejo,30,Valencia,ESP,Midfielder,36,2,5.1,3,0,50,7,53.1,37.83,13,24,94,61,0,Bad,Spanish
+Jonás Ramalho,26,Athletic,ANG,Defender,15,0,5.1,0,0,44,1,24.97,19.4,0,6,62,49,0,Bad,Spanish
+Danijel Subasic,35,Everton,CRO,Goalkeeper,13,0,2.6,0,16,0,0,23.4,10.13,0,0,2,2,3,Normal,English
+Diego Rubio,26,Deportivo,CHI,Striker,10,0,4.3,3,0,3,0,23.45,12.79,9,16,17,7,0,Normal,Spanish
+Vaclav Cerny,22,Atlético,CZE,Midfielder,25,3,4.6,8,0,16,24,28.09,16.36,25,51,18,7,0,Normal,Spanish
+Eliaquim Mangala,29,Newcastle,FRA,Defender,12,0,6.2,0,0,107,3,43.77,32.61,1,4,39,33,0,Good,English
+Valeriy Luchkevych,24,Man City,UKR,Defender,5,1,8.1,0,0,37,14,51.49,41.24,2,3,21,20,0,Good,English
+Borja Iglesias,27,Albacete,ESP,Striker,28,1,5.0,8,0,38,6,22.0,15.9,27,47,10,3,0,Normal,Spanish
+Zouhair Feddal,31,Levante,MAR,Defender,15,2,4.8,0,0,54,2,24.52,19.31,1,8,56,44,0,Normal,Spanish
+Thomas Basila,20,Tottenham,FRA,Defender,14,0,6.1,1,0,190,1,46.01,34.47,2,4,69,55,0,Good,English
+Andoni Ugarte,24,R. Sociedad,ESP,Defender,14,0,3.8,0,0,34,0,20.97,16.11,0,5,46,36,0,Bad,Spanish
+Fran Villalba,21,Valencia,ESP,Midfielder,19,3,4.6,2,0,23,12,48.38,31.09,8,24,26,16,0,Normal,Spanish
+Andreu Fontàs,30,FC Barcelona,ESP,Defender,32,1,4.4,0,0,144,5,35.34,31.15,2,6,157,135,0,Good,Spanish
+Ben Davies,26,Sunderland,WAL,Defender,31,2,7.6,0,0,271,50,47.37,32.78,0,6,250,193,0,Good,English
+Stéphane Sparagna,25,Stoke,FRA,Defender,20,0,6.2,1,0,233,3,28.2,17.74,2,4,51,47,0,Good,English
+Marcos Rojo,29,Levante,ARG,Defender,23,0,4.5,0,0,90,0,23.74,19.71,0,7,109,90,0,Normal,Spanish
+Abdelhak Nouri,22,Celta,NED,Midfielder,36,8,4.7,6,0,22,26,52.8,33.75,19,43,45,28,0,Normal,Spanish
+Juan Cuadrado,31,Chelsea,COL,Midfielder,26,6,8.4,3,0,35,52,36.46,27.1,23,38,71,47,0,Normal,English
+Diego Llorente,26,Atlético,ESP,Defender,8,1,4.6,1,0,16,2,23.16,18.83,1,3,29,25,0,Bad,Spanish
+Nabil Bentaleb,25,Southampton,ALG,Midfielder,8,2,8.3,1,0,35,20,65.81,56.13,6,14,31,19,0,Good,English
+Paco Alcácer,26,Man City,ESP,Striker,6,0,7.5,1,0,1,13,23.36,18.38,4,5,2,1,0,Good,English
+David Novais,20,Southampton,POR,Midfielder,32,1,7.8,4,0,44,59,35.92,25.17,11,32,39,29,0,Normal,English
+Fabio Daprelà,29,Watford,SUI,Defender,12,0,7.3,0,0,57,11,45.0,30.17,1,3,34,24,0,Good,English
+James Wilson,24,Newcastle,ENG,Midfielder,20,0,7.6,7,0,6,23,26.18,20.02,21,38,17,4,0,Normal,English
+Diego Caballo,26,C.E. Sabadell,ESP,Defender,26,4,4.2,0,0,45,8,30.23,22.01,0,3,115,87,0,Bad,Spanish
+Anwar El Ghazi,24,Brentford,NED,Midfielder,6,1,8.0,0,0,23,12,44.0,30.67,3,10,18,9,0,Normal,English
+Luka Gucek,21,Getafe,SVN,Defender,23,5,4.7,0,0,74,8,24.55,18.51,1,14,100,78,0,Normal,Spanish
+Pablo Insua,26,Deportivo,ESP,Defender,7,0,4.7,0,0,29,1,19.39,15.3,0,1,30,23,0,Good,Spanish
+Manu Cordero,23,Sevilla,ESP,Midfielder,6,1,4.3,0,0,5,3,36.0,23.5,1,3,8,5,0,Normal,Spanish
+Saúl,25,Man Utd,ESP,Defender,28,3,7.9,6,0,86,145,55.91,47.33,18,47,74,54,0,Normal,English
+Konrad Laimer,22,Stoke,AUT,Midfielder,25,0,8.1,0,0,90,34,62.19,49.66,4,13,106,75,0,Normal,English
+Eugene Konoplyanka,30,Sevilla,UKR,Midfielder,28,5,4.5,5,0,17,14,35.33,19.17,19,44,35,17,0,Normal,Spanish
+Jonathas,30,Almería,BRA,Striker,22,0,5.0,4,0,16,2,22.0,10.31,22,35,8,3,0,Normal,Other
+Jorge Juliá,26,Albacete,ESP,Midfielder,19,0,4.3,0,0,14,0,28.46,21.22,3,14,52,32,0,Bad,Spanish
+Gabriel Corozo,25,Granada,ECU,Defender,15,0,4.9,0,0,9,0,21.88,14.64,1,3,26,19,0,Bad,Spanish
+Moussa Sissoko,30,Newcastle,FRA,Midfielder,33,2,8.2,5,0,104,91,49.41,35.76,25,41,97,66,0,Good,English
+Shkodran Mustafi,27,Man Utd,GER,Defender,22,1,5.8,2,0,278,7,40.14,32.3,8,27,74,67,0,Good,English
+Marco Reus,30,R. Madrid,GER,Midfielder,30,6,5.8,10,0,60,58,30.75,19.76,25,75,19,11,0,Normal,Spanish
+Jeff Reine-Adelaide,22,Arsenal,FRA,Midfielder,17,1,7.3,6,0,11,28,35.03,28.42,12,29,19,13,0,Normal,English
+Håvard Nielsen,26,Aston Villa,NOR,Midfielder,32,4,6.9,16,0,28,82,29.64,22.6,45,96,39,16,0,Good,English
+Mattia Destro,28,Leicester,ITA,Striker,7,0,7.5,2,0,3,8,27.34,18.83,6,12,8,2,0,Normal,English
+Lazar Markovic,26,Liverpool,SRB,Defender,22,5,8.7,2,0,39,40,39.47,27.8,10,23,53,29,0,Bad,English
+Fayçal Fajr,31,Elche,MAR,Midfielder,29,2,4.8,2,0,28,35,36.15,22.28,12,33,55,29,0,Normal,Spanish
+Patrick Banggaard,25,Brentford,DEN,Defender,22,0,6.3,0,0,142,1,37.01,19.74,0,4,30,26,0,Good,English
+Crístofer Martín,20,Recreativo,ESP,Defender,21,0,2.5,3,0,21,7,22.29,15.36,6,14,70,47,0,Bad,Spanish
+Rafa Soares,24,Everton,POR,Defender,17,3,7.0,1,0,106,26,45.16,32.02,7,12,96,85,0,Good,English
+Carlos Alves,22,R. Betis,POR,Goalkeeper,12,0,1.8,0,15,0,0,17.17,7.5,0,0,0,0,3,Normal,Spanish
+Juan Fuentes,30,Alavés,ESP,Defender,22,1,5.0,0,0,53,2,24.42,17.51,1,5,108,85,0,Bad,Spanish
+Trevoh Chalobah,20,Chelsea,ENG,Defender,24,2,7.4,0,0,233,20,50.25,32.92,2,11,88,76,0,Good,English
+Reece Burke,23,West Ham,ENG,Defender,32,0,6.3,0,0,498,6,39.56,24.07,1,9,122,112,0,Good,English
+Fernando Pacheco,27,Swansea,ESP,Goalkeeper,7,0,3.0,0,10,0,0,36.82,25.91,0,0,1,1,1,Bad,English
+Milan Badelj,31,Middlesbrough,CRO,Defender,6,1,8.0,0,0,41,4,49.58,39.0,1,4,32,26,0,Good,English
+José María Amo,21,Sevilla,ESP,Defender,10,0,4.5,0,0,19,2,23.54,18.92,0,0,40,33,0,Bad,Spanish
+Salomón Rondón,30,Stoke,VEN,Midfielder,16,3,7.2,1,0,16,26,35.18,24.14,5,18,23,6,0,Normal,English
+Nikola Vlasic,22,R. Madrid,CRO,Midfielder,23,2,5.5,9,0,25,32,33.64,21.93,23,40,14,12,0,Normal,Spanish
+Gérson,22,Man City,BRA,Midfielder,29,4,8.3,6,0,100,119,61.49,46.86,15,27,123,73,0,Good,English
+Kuki,21,Málaga,ESP,Midfielder,27,1,4.3,9,0,36,6,24.37,15.63,35,64,19,8,0,Bad,Spanish
+Franck Tabanou,31,Brighton,FRA,Defender,12,1,8.8,0,0,18,22,55.21,39.58,1,4,13,9,0,Bad,English
+Deco,24,Málaga,ESP,Midfielder,11,0,4.3,0,0,6,0,31.49,25.63,1,7,20,12,0,Bad,Spanish
+Mohamed Elneny,27,R. Sociedad,EGY,Midfielder,36,4,6.4,3,0,102,38,39.93,32.53,9,28,168,110,0,Normal,Spanish
+Rúben Neves,22,Man Utd,POR,Midfielder,11,0,7.4,1,0,70,10,53.55,48.55,2,4,47,42,0,Normal,English
+Curro,24,Sevilla,ESP,Midfielder,6,1,4.1,1,0,3,2,34.62,22.68,3,8,17,11,0,Normal,Spanish
+Ruddy Ebondo,21,Elche,FRA,Defender,26,3,4.4,1,0,64,8,20.0,15.62,4,15,116,93,0,Bad,Spanish
+Marcel Tisserand,27,R. Sociedad,COD,Defender,38,5,5.0,2,0,114,16,25.47,18.83,5,28,129,99,0,Bad,Spanish
+Roger,29,Rayo,ESP,Midfielder,29,0,4.8,8,0,26,1,23.46,14.53,31,78,34,12,0,Bad,Spanish
+Peru Nolaskoain,21,R. Sociedad,ESP,Midfielder,17,0,4.4,2,0,8,3,37.54,23.9,7,18,26,15,0,Bad,Spanish
+Fernando Cano,25,Málaga,ESP,Midfielder,28,5,4.5,5,0,23,15,33.25,20.77,12,35,18,12,0,Normal,Spanish
+Javi Hervás,30,Albacete,ESP,Midfielder,27,2,4.6,1,0,66,35,36.44,28.56,10,40,103,59,0,Normal,Spanish
+Carlos Neva,23,Albacete,ESP,Defender,26,1,4.3,0,0,21,19,25.09,14.22,3,6,51,26,0,Bad,Spanish
+Gonzalo Escalante,26,Aston Villa,ARG,Midfielder,34,1,7.3,0,0,216,11,42.72,33.69,7,19,107,83,0,Normal,English
+Borja Fernández,24,R. Betis,ESP,Midfielder,25,3,4.8,0,0,34,7,31.4,25.0,3,8,93,56,0,Normal,Spanish
+Luke Shaw,24,Man Utd,ENG,Defender,34,15,8.5,6,0,306,218,59.55,48.54,30,52,226,178,0,Good,English
+Joe Ralls,26,Middlesbrough,ENG,Defender,31,2,8.2,0,0,102,54,58.38,43.8,6,27,84,64,0,Normal,English
+Jorrit Hendrix,25,Watford,NED,Defender,29,0,6.7,1,0,226,30,43.04,32.64,2,8,131,109,0,Good,English
+Divock Origi,24,Arsenal,BEL,Midfielder,30,1,6.9,8,0,9,73,23.38,18.15,30,63,31,13,0,Good,English
+Sergi Canos,23,Deportivo,ESP,Midfielder,7,0,4.0,0,0,5,0,27.09,15.05,2,6,9,6,0,Bad,Spanish
+Mirko Gori,27,Crystal Palace,ITA,Midfielder,28,1,8.0,1,0,175,47,54.66,44.67,3,17,100,84,0,Normal,English
+Diego Mariño,29,Levante,ESP,Goalkeeper,22,0,1.4,0,26,0,0,19.09,8.82,0,0,0,0,7,Normal,Spanish
+Davy Klaassen,27,Everton,NED,Midfielder,33,3,7.6,10,0,62,89,58.59,43.51,26,59,85,59,0,Good,English
+Mauro Icardi,27,Man City,ARG,Striker,15,1,7.6,5,0,9,27,30.0,22.34,14,34,19,7,0,Normal,English
+Kingsley Coman,23,R. Madrid,FRA,Midfielder,27,9,6.0,6,0,25,35,39.67,26.73,17,40,35,20,0,Normal,Spanish
+Dominic Iorfa,24,Sunderland,NGA,Defender,32,5,7.2,1,0,317,75,38.37,24.8,4,8,154,126,0,Good,English
+Yohan Cabaye,34,Crystal Palace,FRA,Midfielder,30,1,8.4,2,0,116,114,68.59,49.44,6,17,97,69,0,Good,English
+Héctor,24,Málaga,ESP,Midfielder,20,4,5.4,4,0,14,7,23.82,17.14,21,46,13,4,0,Normal,Spanish
+Jon Bautista,24,Elche,ESP,Striker,13,0,4.9,3,0,6,0,32.7,19.43,6,16,16,8,0,Bad,Spanish
+Andrew Robertson,25,Tottenham,SCO,Defender,28,3,7.9,0,0,181,75,49.77,38.37,3,9,233,193,0,Good,English
+Juan Soriano,22,Sevilla,ESP,Goalkeeper,9,0,1.3,0,7,0,1,19.29,9.81,0,0,2,2,3,Normal,Spanish
+Steliano Filip,25,Watford,ROU,Defender,25,2,7.4,0,0,136,36,45.24,34.55,3,5,166,129,0,Good,English
+Nathan Aké,25,Aston Villa,NED,Defender,23,0,6.1,0,0,150,6,38.43,29.89,2,5,58,47,0,Good,English
+Jozabed,28,Rayo,ESP,Midfielder,25,5,4.7,1,0,49,14,37.44,25.39,5,17,47,26,0,Normal,Spanish
+Marc-André ter Stegen,27,FC Barcelona,GER,Goalkeeper,44,0,1.9,0,51,0,0,20.75,13.7,0,0,0,0,16,Normal,Spanish
+Nolito,33,Celta,ESP,Midfielder,27,4,4.4,3,0,13,10,33.61,18.65,8,28,46,24,0,Normal,Spanish
+Dennis Praet,25,Swansea,BEL,Midfielder,8,0,8.0,0,0,29,19,68.68,56.45,2,3,19,13,0,Good,English
+Jordi Masip,31,Espanyol,ESP,Goalkeeper,5,0,2.1,0,7,0,0,19.8,10.57,0,0,3,2,2,Normal,Spanish
+Carlos Soler,23,Valencia,ESP,Midfielder,32,2,5.6,1,0,34,15,48.34,39.32,2,8,92,64,0,Normal,Spanish
+Mikel Oyarzábal,22,R. Sociedad,ESP,Midfielder,37,5,4.6,11,0,85,18,37.82,24.94,37,90,32,23,0,Normal,Spanish
+Sergi Samper,25,Levante,ESP,Midfielder,30,10,4.4,3,0,127,27,46.27,40.24,9,21,132,85,0,Normal,Spanish
+Harry Kane,26,Tottenham,ENG,Striker,34,5,7.2,26,0,38,81,32.69,21.72,64,137,50,23,0,Good,English
+Ondrej Duda,25,Leicester,SVK,Midfielder,10,0,8.2,0,0,19,33,54.2,44.18,2,9,23,14,0,Good,English
+Marco van Ginkel,27,Chelsea,NED,Midfielder,28,0,7.8,0,0,112,22,47.2,37.8,2,7,106,88,0,Normal,English
+Tosin Adarabioyo,22,Middlesbrough,NGA,Defender,20,0,6.7,0,0,244,4,36.42,21.26,4,6,83,73,0,Good,English
+Lindsay Rose,28,Málaga,FRA,Defender,21,0,4.7,0,0,35,0,21.96,16.16,0,5,56,44,0,Bad,Spanish
+Emre Can,26,Arsenal,GER,Defender,19,0,6.3,0,0,146,1,35.13,26.47,4,9,50,46,0,Good,English
+Josep Señé,28,Málaga,ESP,Midfielder,16,0,4.7,4,0,12,6,35.01,21.84,9,23,25,15,0,Bad,Spanish
+José Ángel,31,Elche,ESP,Defender,23,4,4.2,0,0,68,11,21.75,17.18,0,7,105,85,0,Bad,Spanish
+Jordi Alba,30,FC Barcelona,ESP,Defender,27,2,6.0,1,0,91,16,33.32,23.06,4,16,95,74,0,Normal,Spanish
+Aymeric Laporte,25,Man Utd,FRA,Defender,23,2,6.1,2,0,308,13,47.83,38.65,9,32,117,107,0,Good,English
+Danilo,24,Arsenal,BRA,Midfielder,30,3,7.6,1,0,188,71,45.32,37.52,5,30,150,124,0,Good,English
+Marc Albrighton,30,Leicester,ENG,Defender,21,3,8.1,3,0,17,35,57.78,41.67,7,13,22,12,0,Bad,English
+Cristiano Ronaldo,35,R. Madrid,POR,Midfielder,39,12,4.9,29,0,95,62,42.38,26.73,99,182,21,15,0,Normal,Spanish
+Tim Krul,31,Newcastle,NED,Goalkeeper,42,0,2.8,0,54,0,0,29.27,22.63,0,0,0,0,12,Normal,English
+Lucas Vázquez,28,R. Betis,ESP,Midfielder,38,6,5.4,7,0,35,15,23.54,13.12,18,54,76,40,0,Normal,Spanish
+Trent Alexander-Arnold,21,West Ham,ENG,Defender,16,0,7.3,1,0,90,9,41.69,32.46,3,9,92,80,0,Good,English
+Javi Noblejas,26,Elche,ESP,Defender,23,3,4.7,0,0,78,5,24.51,18.27,0,4,118,92,0,Normal,Spanish
